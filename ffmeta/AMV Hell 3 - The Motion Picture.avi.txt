@@ -645,5 +645,155 @@ title=102 - Bobobobo Bobobo - ecnegludni fles sseldnim - Mindless Self Indulgenc
 [CHAPTER]
 TIMEBASE=1/1000
 START=1761092
-END=4124411
+END=1765637
 title=Osaka Cutaway 6 (Roadrunner)
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1765638
+END=1786658
+title=103 - Katamari Damacy - Rollin' - Limp Bizkit - VicBond007
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1786659
+END=1789870
+title=104 - Mahou Sensei Negima - Make My Boobies One More Size - David Brody - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1789871
+END=1810390
+title=105 - Azumanga Daioh - Ride Of The Valkyries - Richard Wagner - Janzki
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1810391
+END=1840546
+title=106 - Naruto - Macarena - Los Del Rio - mckeed
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1840547
+END=1847553
+title=107 - Neon Genesis Evangelion - Teen Girl Squad #5 Easter Egg - Homestar Runner - Scintilla
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1847554
+END=1866655
+title=108 - Mahou Sensei Negima - Hot In Here - Nelly - Garylisk
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1866656
+END=1885799
+title=109 - Grave Of The Fireflies - Danger! High Voltage! - Electric Six - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1885800
+END=1912826
+title=110 - Akazukin Chacha - Little Red Riding Hood - Cartoons - Ashyukun
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1912827
+END=1924254
+title=111 - Revolutionary Girl Utena - "Frankly My Dear, I Don't Give A Damn" - Sound clip from Gone With The Wind - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1924255
+END=1929843
+title=112 - Neon Genesis Evangelion - "Say Hello To My Little Friend" - Sound clip from Scarface - Yokou Seishirou
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1929844
+END=1933597
+title=113 - Escaflowne (movie) - "O-E-O" - Sound clip from The Wizard Of Oz - Steakslim
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1933598
+END=1943649
+title=114 - Ah! My Goddess (movie) - Dancing Queen - ABBA - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1943650
+END=1961208
+title=115 - Read Or Die - War Of 1812 - Three Dead Trolls In A Baggie - haunter103
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1961209
+END=1963335
+title=116 - Fruits Basket - "I'm A Doctor Not A Mechanic" - Sound clip from Star Trek - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1963336
+END=1983188
+title=117 - Beck - JawsTheme - John Williams - GFBeach
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1983189
+END=1999454
+title=118 - Dragonball Z - "I Could Destroy The Universe" - Original Audio - VoicesOfRyan
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1999455
+END=2014428
+title=119 - Initial D Extra Stage - How Forever Feels - Kenny Chesney - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2014429
+END=2037993
+title=120 - Excel Saga - Meaning Of Life - Disturbed - FoxJones
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2037994
+END=2068523
+title=Intermission: Kung Pow - Enter The Fist
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2068524
+END=2159698
+title=121 - Azumanga Daioh - Must Be Dreaming - Frou Frou - Roll The Stampede
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2159699
+END=2176131
+title=122 - His and Her Circumstances - Sound clips (fart) - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2176132
+END=2185557
+title=123 - Hellsing - "Oogie Boogie's Song" - from A Nightmare Before Christmas - Yokou Seishirou
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2185558
+END=2190604
+title=124 - Pokémon - Thunderstruck - AC/DC - SpaceKase
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2190605
+END=2221259
+title=125 - Excel Saga - National Gun Association skit - Steel Dakota - Mr. Pilkington
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2221260
+END=4124411
+title=Osaka Cutaway 7 (Repeated)

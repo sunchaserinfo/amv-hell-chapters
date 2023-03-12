@@ -108,31 +108,31 @@
 00:28:56.151 101 - Azumanga Daioh - CGNU Fight Song - Homestar Runner - Kitsuner
 00:29:01.364 102 - Bobobobo Bobobo - ecnegludni fles sseldnim - Mindless Self Indulgence - AMV4000 & Tardo
 00:29:21.092 Osaka Cutaway 6 (Roadrunner)
-103 - Katamari Damacy - Rollin' - Limp Bizkit - VicBond007
-104 - Mahou Sensei Negima - Make My Boobies One More Size - David Brody - Kitsuner
-105 - Azumanga Daioh - Ride Of The Valkyries - Richard Wagner - Janzki
-106 - Naruto - Macarena - Los Del Rio - mckeed
-107 - Neon Genesis Evangelion - Teen Girl Squad #5 Easter Egg - Homestar Runner - Scintilla
-108 - Mahou Sensei Negima - Hot In Here - Nelly - Garylisk
-109 - Grave Of The Fireflies - Danger! High Voltage! - Electric Six - SSGWNBTD
-110 - Akazukin Chacha - Little Red Riding Hood - Cartoons - Ashyukun
-111 - Revolutionary Girl Utena - "Frankly My Dear, I Don't Give A Damn" - Sound clip from Gone With The Wind - Zarxrax
-112 - Neon Genesis Evangelion - "Say Hello To My Little Friend" - Sound clip from Scarface - Yokou Seishirou
-113 - Escaflowne (movie) - "O-E-O" - Sound clip from The Wizard Of Oz - Steakslim
-114 - Ah! My Goddess (movie) - Dancing Queen - ABBA - SSGWNBTD
-115 - Read Or Die - War Of 1812 - Three Dead Trolls In A Baggie - haunter103
-116 - Fruits Basket - "I'm A Doctor Not A Mechanic" - Sound clip from Star Trek - Kitsuner
-117 - Beck - JawsTheme - John Williams - GFBeach
-118 - Dragonball Z - "I Could Destroy The Universe" - Original Audio - VoicesOfRyan
-119 - Initial D Extra Stage - How Forever Feels - Kenny Chesney - Zarxrax
-120 - Excel Saga - Meaning Of Life - Disturbed - FoxJones
-Intermission: Kung Pow - Enter The Fist
-121 - Azumanga Daioh - Must Be Dreaming - Frou Frou - Roll The Stampede
-122 - His and Her Circumstances - Sound clips (fart) - Zarxrax
-123 - Hellsing - "Oogie Boogie's Song" - from A Nightmare Before Christmas - Yokou Seishirou
-124 - Pokémon - Thunderstruck - AC/DC - SpaceKase
-125 - Excel Saga - National Gun Association skit - Steel Dakota - Mr. Pilkington
-Osaka Cutaway 7 (Repeated)
+00:29:25.638 103 - Katamari Damacy - Rollin' - Limp Bizkit - VicBond007
+00:29:46.659 104 - Mahou Sensei Negima - Make My Boobies One More Size - David Brody - Kitsuner
+00:29:49.871 105 - Azumanga Daioh - Ride Of The Valkyries - Richard Wagner - Janzki
+00:30:10.391 106 - Naruto - Macarena - Los Del Rio - mckeed
+00:30:40.547 107 - Neon Genesis Evangelion - Teen Girl Squad #5 Easter Egg - Homestar Runner - Scintilla
+00:30:47.554 108 - Mahou Sensei Negima - Hot In Here - Nelly - Garylisk
+00:31:06.656 109 - Grave Of The Fireflies - Danger! High Voltage! - Electric Six - SSGWNBTD
+00:31:25.800 110 - Akazukin Chacha - Little Red Riding Hood - Cartoons - Ashyukun
+00:31:52.827 111 - Revolutionary Girl Utena - "Frankly My Dear, I Don't Give A Damn" - Sound clip from Gone With The Wind - Zarxrax
+00:32:04.255 112 - Neon Genesis Evangelion - "Say Hello To My Little Friend" - Sound clip from Scarface - Yokou Seishirou
+00:32:09.844 113 - Escaflowne (movie) - "O-E-O" - Sound clip from The Wizard Of Oz - Steakslim
+00:32:13.598 114 - Ah! My Goddess (movie) - Dancing Queen - ABBA - SSGWNBTD
+00:32:23.650 115 - Read Or Die - War Of 1812 - Three Dead Trolls In A Baggie - haunter103
+00:32:41.209 116 - Fruits Basket - "I'm A Doctor Not A Mechanic" - Sound clip from Star Trek - Kitsuner
+00:32:43.336 117 - Beck - JawsTheme - John Williams - GFBeach
+00:33:03.189 118 - Dragonball Z - "I Could Destroy The Universe" - Original Audio - VoicesOfRyan
+00:33:19.455 119 - Initial D Extra Stage - How Forever Feels - Kenny Chesney - Zarxrax
+00:33:34.429 120 - Excel Saga - Meaning Of Life - Disturbed - FoxJones
+00:33:57.994 Intermission: Kung Pow - Enter The Fist
+00:34:28.524 121 - Azumanga Daioh - Must Be Dreaming - Frou Frou - Roll The Stampede
+00:35:59.699 122 - His and Her Circumstances - Sound clips (fart) - Zarxrax
+00:36:16.132 123 - Hellsing - "Oogie Boogie's Song" - from A Nightmare Before Christmas - Yokou Seishirou
+00:36:25.558 124 - Pokémon - Thunderstruck - AC/DC - SpaceKase
+00:36:30.605 125 - Excel Saga - National Gun Association skit - Steel Dakota - Mr. Pilkington
+00:37:01.260 Osaka Cutaway 7 (Repeated)
 126 - X TV - I Don't Want To Wait - Paula Cole - Yokou Seishirou
 127 - Kiddy Grade - Maybelline - TV Commercial - GFBeach
 128 - Golden Boy - "Damn Computer" - Sound clip from Daria - Kitsuner
