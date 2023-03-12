@@ -1,0 +1,103 @@
+;FFMETADATA1
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=14638
+title=Opening
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14639
+END=36702
+title=1 - Oghma - Bokusatsu Tenshi Dokuro-chan - Aqua Teen Hunger Force sound clip
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=36703
+END=50007
+title=2 - Drew199321 - Cowboy Bebop - Pure Pwnage sound clip
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=50008
+END=68150
+title=3 - Rastar - Bleach: Memories of Nobody - Will Smith - Men in Black
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=68151
+END=79286
+title=4 - Doomimus - Azumanga Daioh - Barnes & Barnes - Fish Heads
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=79287
+END=96929
+title=5 - Oghma - Berserk - The Waterboy sound clip
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=96930
+END=129253
+title=6 - Somi - Higurashi no Naku Koro ni - TurboNegro - All My Friends Are Dead
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=129254
+END=146270
+title=7 - Doomimus - Azumanga Daioh - Strong Bad E-Mail - "Replacement"
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=146271
+END=157698
+title=8 - Hockey-kun - Death Note - Family Guy sound clip
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=157699
+END=192065
+title=9 - ClosedPool - Code Geass - The Lord of the Rings: The Two Towers - Requiem for a Tower; Hostess Commercial sound clip
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=192066
+END=222221
+title=10 - scarmullet - Neon Genesis Evangelion - He-man and the Masters of the Universe sound clip
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=222222
+END=245327
+title=11 - Inkwolf - Princess Tutu - Todd Rundgren - Bang the Drum
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=245328
+END=256588
+title=12 - Tempest - Oedo 808 Cyber City - Queen & David Bowie - Under Pressure
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=256589
+END=290872
+title=13 - Doomimus - Azumanga Daioh - Disney's Pocahontas - Colors of the Wind
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=290873
+END=304970
+title=14 - Hoodoo - Trigun - South Park sound clip
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=304971
+END=324323
+title=15 - scarmullet - Neon Genesis Evangelion - Family Guy sound clip
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=324324
+END=374164
+title=Credits
