@@ -327,5 +327,323 @@ title=51 - Hanada Shounen Shi - Howdy Doody - TV Theme - Zarxrax
 [CHAPTER]
 TIMEBASE=1/1000
 START=928552
-END=4124411
+END=931179
 title=Osaka Cutaway 4 (Upside Down)
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=931180
+END=968091
+title=52 - Super Gals - Clueless - TV Theme - Roll The Stampede
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=968092
+END=976474
+title=53 - Bleach - Winnie The PoohClassic Theme - Yokou Seishirou
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=976475
+END=997996
+title=54 - Battle Angel Alita - Truly Madly Deeply - Midnight Ramblers - Trythil
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=997997
+END=1003626
+title=55 - Peacemaker Kurogane - "I'm A Little Piggy" - Sound clip from South Park - Höna-Pöna
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1003627
+END=1022228
+title=56 - Mega Man: Upon A Star - We Built This City - Starship - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1022229
+END=1047795
+title=57 - Madlax - Madlax Laxative - Original audio - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1047796
+END=1066814
+title=58 - Azumanga Daioh - McDonald's Girl - The Blenders - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1066815
+END=1094092
+title=59 - I, Me, My, Strawberry Eggs - Walking Around In Women's Underwear - Bob Rivers - Coderjoe
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1094093
+END=1106896
+title=60 - Great Teacher Onizuka - I'm A Gangster - Rappy McRapperson - Deep Blue Vibes
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1106897
+END=1132296
+title=61 - Yu Yu Hakusho - "Fingerbang" - South Park - Yokou Seishirou
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1132297
+END=1133673
+title=62 - Neon Genesis Evangelion - "Hey Hey Hey" - Sound clip from Fat Albert - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1133674
+END=1144225
+title=63 - Serial Experiments Lain - K.I.D.S. Incorporated - Bloodhound Gang - Janzki
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1144226
+END=1181137
+title=64 - Hellsing - Viva Forever - Spice Girls - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1181138
+END=1192857
+title=Osaka Cutaway 5 (Glitch)
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1192858
+END=1216339
+title=65 - Revolutionary Girl Utena - Sex Machine - James Brown - GFBeach
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1216340
+END=1221677
+title=66 - Azumanga Daioh - The One And Only - Chesney Hawkes - gambitt
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1221678
+END=1230478
+title=67 - Ghost In The Shell - Invisible - Clay Aiken - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1230479
+END=1276357
+title=68 - Neon Genesis Evangelion - T Baggin' - Ludacris - Hitori
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1276358
+END=1284657
+title=69 - Azumanga Daioh & Neon Genesis Evangelion - Theme & Eyecatch sound clips - Azumanga Daioh - Yokoshima-N
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1284658
+END=1295668
+title=70 - InuYasha - Hound Dog - Elvis Presley - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1295669
+END=1304844
+title=71 - Witch Hunter Robin - Ding Dong! The Witch Is Dead - The 5th Estate - FoxJones
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1304845
+END=1319817
+title=72 - Azumanga Daioh & Pokémon - Sound clips - Pokémon - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1319818
+END=1342465
+title=73 - Golden Boy - White Girls - Mighty Casey - Roll The Stampede
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1342466
+END=1346927
+title=74 - Transformers (movie) - Mr. Roboto - Styx - Pie Row Maniac
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1346928
+END=1353643
+title=75 - DiGi Charat - La Vie en Rose - Two-Mix - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1353644
+END=1361776
+title=76 - Naruto - La Cucaracha - Los Machucambos - FurryCurry
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1361777
+END=1392098
+title=77 - Azumanga Daioh - Shout Your Lungs Out (from Doug) - The Beets - Roll The Stampede
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1392099
+END=1396936
+title=78 - Cowboy Bebop - Rhinestone Cowboy - Glen Campbell - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1396937
+END=1417248
+title=79 - Magical Play - It's The End Of The World As We Know It (And I Feel Fine) - Riddlin' Kids - Chaosprojects
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1417249
+END=1425965
+title=80 - Loveless - "Cat Orgy" - Sound clip from South Park - badmartialarts
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1425966
+END=1463961
+title=81 - Azumanga Daioh - Bananaphone - Raffi - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1463962
+END=1468382
+title=82 - Cowboy Bebop - "No Thanks, I Prefer Grass" - Sound clip from Gumby - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1468383
+END=1490237
+title=83 - Full Moon wo Sagashite - I Believe I Can Fly - William Hung - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1490238
+END=1503209
+title=84 - Neon Genesis Evangelion - "I'm Watching You Pee" - Original Audio - Chaos Angel (Video remastered by SSGWNBTD)
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1503210
+END=1519809
+title=85 - Gunsmith Cats - Calcutta - Dr. Bombay - FoxJones
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1519810
+END=1525940
+title=86 - Hellsing - "I Bid You Welcome" - Sound clip from Dracula - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1525941
+END=1547461
+title=87 - X TV - Lassie - TV Theme - Yokou Seishirou
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1547462
+END=1559390
+title=88 - Azumanga Daioh - Fingertips 14 - They Might Be Giants - Jesmaster
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1559391
+END=1568399
+title=89 - Naruto - Mr. Sandman - The Chordettes - KentaroPJJ
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1568400
+END=1572778
+title=90 - Lupin 3: The Castle Of Cagliostro - "No, Mr. Bond, I Expect You To Die" - Sound clip from Goldfinger - bobo4me
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1572779
+END=1591714
+title=91 - Dragonball Z - PMS Crisis Hotline voice mail message - J. Alana
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1591715
+END=1595342
+title=92 - Naruto - "Bow To Your Sensei" - Sound clip from Napoleon Dynamite - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1595343
+END=1632838
+title=93 - Mahou Sensei Negima - Magic Stick - 50 Cent - Roll The Stampede
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1632839
+END=1639720
+title=94 - Trigun - Pretty Fly (For A Rabbi) - "Weird Al" Yankovic - Kitsuner (Re-edited by SSGWNBTD)
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1639721
+END=1654944
+title=95 - Twin Spica - Oscar Meyer - TV Commercial - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1654945
+END=1677549
+title=96 - Bokusatsu Tenshi Dokuro-chan - Angel - Shaggy - Chaosprojects
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1677550
+END=1699488
+title=97 - Cat Soup - Somewhere I Belong - Linkin Park - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1699489
+END=1709289
+title=98 - Azumanga Daioh - Rick James Sketch - Dave Chappelle - Chaosprojects
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1709290
+END=1722553
+title=99 - Project A-Ko - Tip-toe Through The Tulips - Tiny Tim - FallenPhoenix
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1722554
+END=1736150
+title=100 - Bobobobo Bobobo - ecnegludni fles sseldnim - Mindless Self Indulgence - AMV4000 & Tardo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1736151
+END=1741363
+title=101 - Azumanga Daioh - CGNU Fight Song - Homestar Runner - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1741364
+END=1761091
+title=102 - Bobobobo Bobobo - ecnegludni fles sseldnim - Mindless Self Indulgence - AMV4000 & Tardo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1761092
+END=4124411
+title=Osaka Cutaway 6 (Roadrunner)

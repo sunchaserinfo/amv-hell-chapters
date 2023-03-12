@@ -55,59 +55,59 @@
 00:14:50.264 50 - Dragonball Z - Memory Remains - Metallica - SSGWNBTD
 00:15:21.170 51 - Hanada Shounen Shi - Howdy Doody - TV Theme - Zarxrax
 00:15:28.552 Osaka Cutaway 4 (Upside Down)
-52 - Super Gals - Clueless - TV Theme - Roll The Stampede
-53 - Bleach - Winnie The PoohClassic Theme - Yokou Seishirou
-54 - Battle Angel Alita - Truly Madly Deeply - Midnight Ramblers - Trythil
-55 - Peacemaker Kurogane - "I'm A Little Piggy" - Sound clip from South Park - Höna-Pöna
-56 - Mega Man: Upon A Star - We Built This City - Starship - SSGWNBTD
-57 - Madlax - Madlax Laxative - Original audio - Kitsuner
-58 - Azumanga Daioh - McDonald's Girl - The Blenders - Zarxrax
-59 - I, Me, My, Strawberry Eggs - Walking Around In Women's Underwear - Bob Rivers - Coderjoe
-60 - Great Teacher Onizuka - I'm A Gangster - Rappy McRapperson - Deep Blue Vibes
-61 - Yu Yu Hakusho - "Fingerbang" - South Park - Yokou Seishirou
-62 - Neon Genesis Evangelion - "Hey Hey Hey" - Sound clip from Fat Albert - Kitsuner
-63 - Serial Experiments Lain - K.I.D.S. Incorporated - Bloodhound Gang - Janzki
-64 - Hellsing - Viva Forever - Spice Girls - SSGWNBTD
-Osaka Cutaway 5 (Glitch)
-65 - Revolutionary Girl Utena - Sex Machine - James Brown - GFBeach
-66 - Azumanga Daioh - The One And Only - Chesney Hawkes - gambitt
-67 - Ghost In The Shell - Invisible - Clay Aiken - Kitsuner
-68 - Neon Genesis Evangelion - T Baggin' - Ludacris - Hitori
-69 - Azumanga Daioh & Neon Genesis Evangelion - Theme & Eyecatch sound clips - Azumanga Daioh - Yokoshima-N
-70 - InuYasha - Hound Dog - Elvis Presley - Kitsuner
-71 - Witch Hunter Robin - Ding Dong! The Witch Is Dead - The 5th Estate - FoxJones
-72 - Azumanga Daioh & Pokémon - Sound clips - Pokémon - Zarxrax
-73 - Golden Boy - White Girls - Mighty Casey - Roll The Stampede
-74 - Transformers (movie) - Mr. Roboto - Styx - Pie Row Maniac
-75 - DiGi Charat - La Vie en Rose - Two-Mix - Zarxrax
-76 - Naruto - La Cucaracha - Los Machucambos - FurryCurry
-77 - Azumanga Daioh - Shout Your Lungs Out (from Doug) - The Beets - Roll The Stampede
-78 - Cowboy Bebop - Rhinestone Cowboy - Glen Campbell - Kitsuner
-79 - Magical Play - It's The End Of The World As We Know It (And I Feel Fine) - Riddlin' Kids - Chaosprojects
-80 - Loveless - "Cat Orgy" - Sound clip from South Park - badmartialarts
-81 - Azumanga Daioh - Bananaphone - Raffi - Zarxrax
-82 - Cowboy Bebop - "No Thanks, I Prefer Grass" - Sound clip from Gumby - Kitsuner
-83 - Full Moon wo Sagashite - I Believe I Can Fly - William Hung - Zarxrax
-84 - Neon Genesis Evangelion - "I'm Watching You Pee" - Original Audio - Chaos Angel (Video remastered by SSGWNBTD)
-85 - Gunsmith Cats - Calcutta - Dr. Bombay - FoxJones
-86 - Hellsing - "I Bid You Welcome" - Sound clip from Dracula - Kitsuner
-87 - X TV - Lassie - TV Theme - Yokou Seishirou
-88 - Azumanga Daioh - Fingertips 14 - They Might Be Giants - Jesmaster
-89 - Naruto - Mr. Sandman - The Chordettes - KentaroPJJ
-90 - Lupin 3: The Castle Of Cagliostro - "No, Mr. Bond, I Expect You To Die" - Sound clip from Goldfinger - bobo4me
-91 - Dragonball Z - PMS Crisis Hotline voice mail message - J. Alana
-92 - Naruto - "Bow To Your Sensei" - Sound clip from Napoleon Dynamite - Kitsuner
-93 - Mahou Sensei Negima - Magic Stick - 50 Cent - Roll The Stampede
-94 - Trigun - Pretty Fly (For A Rabbi) - "Weird Al" Yankovic - Kitsuner (Re-edited by SSGWNBTD)
-95 - Twin Spica - Oscar Meyer - TV Commercial - Zarxrax
-96 - Bokusatsu Tenshi Dokuro-chan - Angel - Shaggy - Chaosprojects
-97 - Cat Soup - Somewhere I Belong - Linkin Park - SSGWNBTD
-98 - Azumanga Daioh - Rick James Sketch - Dave Chappelle - Chaosprojects
-99 - Project A-Ko - Tip-toe Through The Tulips - Tiny Tim - FallenPhoenix
-100 - Bobobobo Bobobo - ecnegludni fles sseldnim - Mindless Self Indulgence - AMV4000 & Tardo
-101 - Azumanga Daioh - CGNU Fight Song - Homestar Runner - Kitsuner
-102 - Bobobobo Bobobo - ecnegludni fles sseldnim - Mindless Self Indulgence - AMV4000 & Tardo
-Osaka Cutaway 6 (Roadrunner)
+00:15:31.180 52 - Super Gals - Clueless - TV Theme - Roll The Stampede
+00:16:08.092 53 - Bleach - Winnie The PoohClassic Theme - Yokou Seishirou
+00:16:16.475 54 - Battle Angel Alita - Truly Madly Deeply - Midnight Ramblers - Trythil
+00:16:37.997 55 - Peacemaker Kurogane - "I'm A Little Piggy" - Sound clip from South Park - Höna-Pöna
+00:16:43.627 56 - Mega Man: Upon A Star - We Built This City - Starship - SSGWNBTD
+00:17:02.229 57 - Madlax - Madlax Laxative - Original audio - Kitsuner
+00:17:27.796 58 - Azumanga Daioh - McDonald's Girl - The Blenders - Zarxrax
+00:17:46.815 59 - I, Me, My, Strawberry Eggs - Walking Around In Women's Underwear - Bob Rivers - Coderjoe
+00:18:14.093 60 - Great Teacher Onizuka - I'm A Gangster - Rappy McRapperson - Deep Blue Vibes
+00:18:26.897 61 - Yu Yu Hakusho - "Fingerbang" - South Park - Yokou Seishirou
+00:18:52.297 62 - Neon Genesis Evangelion - "Hey Hey Hey" - Sound clip from Fat Albert - Kitsuner
+00:18:53.674 63 - Serial Experiments Lain - K.I.D.S. Incorporated - Bloodhound Gang - Janzki
+00:19:04.226 64 - Hellsing - Viva Forever - Spice Girls - SSGWNBTD
+00:19:41.138 Osaka Cutaway 5 (Glitch)
+00:19:52.858 65 - Revolutionary Girl Utena - Sex Machine - James Brown - GFBeach
+00:20:16.340 66 - Azumanga Daioh - The One And Only - Chesney Hawkes - gambitt
+00:20:21.678 67 - Ghost In The Shell - Invisible - Clay Aiken - Kitsuner
+00:20:30.479 68 - Neon Genesis Evangelion - T Baggin' - Ludacris - Hitori
+00:21:16.358 69 - Azumanga Daioh & Neon Genesis Evangelion - Theme & Eyecatch sound clips - Azumanga Daioh - Yokoshima-N
+00:21:24.658 70 - InuYasha - Hound Dog - Elvis Presley - Kitsuner
+00:21:35.669 71 - Witch Hunter Robin - Ding Dong! The Witch Is Dead - The 5th Estate - FoxJones
+00:21:44.845 72 - Azumanga Daioh & Pokémon - Sound clips - Pokémon - Zarxrax
+00:21:59.818 73 - Golden Boy - White Girls - Mighty Casey - Roll The Stampede
+00:22:22.466 74 - Transformers (movie) - Mr. Roboto - Styx - Pie Row Maniac
+00:22:26.928 75 - DiGi Charat - La Vie en Rose - Two-Mix - Zarxrax
+00:22:33.644 76 - Naruto - La Cucaracha - Los Machucambos - FurryCurry
+00:22:41.777 77 - Azumanga Daioh - Shout Your Lungs Out (from Doug) - The Beets - Roll The Stampede
+00:23:12.099 78 - Cowboy Bebop - Rhinestone Cowboy - Glen Campbell - Kitsuner
+00:23:16.937 79 - Magical Play - It's The End Of The World As We Know It (And I Feel Fine) - Riddlin' Kids - Chaosprojects
+00:23:37.249 80 - Loveless - "Cat Orgy" - Sound clip from South Park - badmartialarts
+00:23:45.966 81 - Azumanga Daioh - Bananaphone - Raffi - Zarxrax
+00:24:23.962 82 - Cowboy Bebop - "No Thanks, I Prefer Grass" - Sound clip from Gumby - Kitsuner
+00:24:28.383 83 - Full Moon wo Sagashite - I Believe I Can Fly - William Hung - Zarxrax
+00:24:50.238 84 - Neon Genesis Evangelion - "I'm Watching You Pee" - Original Audio - Chaos Angel (Video remastered by SSGWNBTD)
+00:25:03.210 85 - Gunsmith Cats - Calcutta - Dr. Bombay - FoxJones
+00:25:19.810 86 - Hellsing - "I Bid You Welcome" - Sound clip from Dracula - Kitsuner
+00:25:25.941 87 - X TV - Lassie - TV Theme - Yokou Seishirou
+00:25:47.462 88 - Azumanga Daioh - Fingertips 14 - They Might Be Giants - Jesmaster
+00:25:59.391 89 - Naruto - Mr. Sandman - The Chordettes - KentaroPJJ
+00:26:08.400 90 - Lupin 3: The Castle Of Cagliostro - "No, Mr. Bond, I Expect You To Die" - Sound clip from Goldfinger - bobo4me
+00:26:12.779 91 - Dragonball Z - PMS Crisis Hotline voice mail message - J. Alana
+00:26:31.715 92 - Naruto - "Bow To Your Sensei" - Sound clip from Napoleon Dynamite - Kitsuner
+00:26:35.343 93 - Mahou Sensei Negima - Magic Stick - 50 Cent - Roll The Stampede
+00:27:12.839 94 - Trigun - Pretty Fly (For A Rabbi) - "Weird Al" Yankovic - Kitsuner (Re-edited by SSGWNBTD)
+00:27:19.721 95 - Twin Spica - Oscar Meyer - TV Commercial - Zarxrax
+00:27:34.945 96 - Bokusatsu Tenshi Dokuro-chan - Angel - Shaggy - Chaosprojects
+00:27:57.550 97 - Cat Soup - Somewhere I Belong - Linkin Park - SSGWNBTD
+00:28:19.489 98 - Azumanga Daioh - Rick James Sketch - Dave Chappelle - Chaosprojects
+00:28:29.290 99 - Project A-Ko - Tip-toe Through The Tulips - Tiny Tim - FallenPhoenix
+00:28:42.554 100 - Bobobobo Bobobo - ecnegludni fles sseldnim - Mindless Self Indulgence - AMV4000 & Tardo
+00:28:56.151 101 - Azumanga Daioh - CGNU Fight Song - Homestar Runner - Kitsuner
+00:29:01.364 102 - Bobobobo Bobobo - ecnegludni fles sseldnim - Mindless Self Indulgence - AMV4000 & Tardo
+00:29:21.092 Osaka Cutaway 6 (Roadrunner)
 103 - Katamari Damacy - Rollin' - Limp Bizkit - VicBond007
 104 - Mahou Sensei Negima - Make My Boobies One More Size - David Brody - Kitsuner
 105 - Azumanga Daioh - Ride Of The Valkyries - Richard Wagner - Janzki
