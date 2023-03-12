@@ -795,5 +795,599 @@ title=125 - Excel Saga - National Gun Association skit - Steel Dakota - Mr. Pilk
 [CHAPTER]
 TIMEBASE=1/1000
 START=2221260
-END=4124411
+END=2233480
 title=Osaka Cutaway 7 (Repeated)
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2233481
+END=2239611
+title=126 - X TV - I Don't Want To Wait - Paula Cole - Yokou Seishirou
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2239612
+END=2246201
+title=127 - Kiddy Grade - Maybelline - TV Commercial - GFBeach
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2246202
+END=2252707
+title=128 - Golden Boy - "Damn Computer" - Sound clip from Daria - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2252708
+END=2262759
+title=129 - Spirited Away - You've Got A Friend In Me - Randy Newman - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2262760
+END=2287784
+title=130 - School Rumble - Duel Of The Fates - John Williams - FoxJones
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2287785
+END=2292706
+title=131 - Magic Users Club - Baby Got Jack - MC Sampler and White Honkey - Alternababe
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2292707
+END=2315562
+title=132 - FLCL - Dueling Banjos - Eric Weissberg and Steve Mandell - Zarxrax (Special Thanks: AbsoluteDestiny)
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2315563
+END=2359230
+title=133 - Neon Genesis Evangelion - Institutionalized - Suicidal Tendencies - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2359231
+END=2370742
+title=134 - Nurse Witch Komugi-chan - Woo Hoo - The 5, 6, 7, 8's - Chaosprojects
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2370743
+END=2374746
+title=135 - Card Captor Sakura - "Settle Down, Beavis" - Sound clip from Beavis and Butthead - Chaosprojects
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2374747
+END=2400188
+title=136 - Serial Experiments Lain - I've Been Working On The Railroad - badmartialarts
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2400189
+END=2404651
+title=137 - Cowboy Bebop - "For Me To Poop On" - Triumph The Insult Comic Dog - Yokou Seishirou
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2404652
+END=2433847
+title=138 - Naruto - Love Is A Battlefield - Pat Benatar - Castor Troy
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2433848
+END=2461583
+title=139 - Tenchi Muyo - Big Pimpin' - Jay-Z - Chaosprojects
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2461584
+END=2475388
+title=140 - Ghost In The Shell: Stand Alone Complex - Raid Commercial and Original Audio - Ashyukun
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2475389
+END=2493865
+title=141 - Crying Freeman - I'm Really Hot - Missy Elliot - badmartialarts
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2493866
+END=2495450
+title=142 - Oh My Goddess! - U Can't Touch This - MC Hammer - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2495451
+END=2499120
+title=Osaka Cutaway 8 (Wassup!)
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2499121
+END=2506336
+title=143 - Yu Yu Hakusho - "Burlap Chafes Me So" - Sound clip from Pinky and the Brain - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2506337
+END=2516471
+title=144 - New Fist Of The North Star - You're Beautiful - James Blunt - Tseng808
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2516472
+END=2538284
+title=145 - Excel Saga - I Will Survive (Remix) - Hermes House Band - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2538285
+END=2555009
+title=146 - Princess Tutu - Ducktales - TV Theme - FoxJones
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2555010
+END=2583163
+title=147 - End Of Evangelion - Geico - TV Commercial - NeoMikey
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2583164
+END=2591921
+title=148 - Puni Puni Poemi - How Much Is The Fish? - Scooter - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2591922
+END=2626623
+title=149 - Excel Saga - Aqualung - Jethro Tull - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2626624
+END=2663368
+title=150 - Fist Of The North Star - Another One Bites The Dust - Queen - mckeed
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2663369
+END=2681719
+title=151 - Paranoia Agent - Original Audio (Colgate Sparkling) - Janzki
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2681720
+END=2697068
+title=152 - Grenadier - Click Click Boom - Saliva - Chaosprojects
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2697069
+END=2711374
+title=153 - Haibane Renmei - Drug Ballad - Eminem - Aluminum Studios
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2711375
+END=2717964
+title=154 - Neon Genesis Evangelion - "A Quake! A Quake!" - from Animaniacs - greenjinjo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2717965
+END=2738735
+title=155 - Excel Saga - Terra (Final Fantasy VI) - Nobuo Uematsu - Sir Lagsalot
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2738736
+END=2754751
+title=156 - Bleach - Screaming - Sound clip from Bleach - SpaceKase
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2754752
+END=2760173
+title=157 - FLCL - Reebok - TV Commercial - Steakslim
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2760174
+END=2825488
+title=158 - Outlaw Star - Star Trek Rhapsody - Hillman Morning Show - Roll The Stampede
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2825489
+END=2830868
+title=159 - Elfen Lied - "I'm Batman" - Sound clip from Batman - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2830869
+END=2868406
+title=160 - Fruits Basket & Naruto - "ANNA" - Sound clip from Family Guy - Yokou Seishirou
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2868407
+END=2878958
+title=161 - Full Metal Alchemist - I'm Too Sexy - Right Said Fred - GFBeach
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2878959
+END=2897894
+title=162 - Chobits - I Love My Computer - Bad Religion - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2897895
+END=2927715
+title=163 - Neon Genesis Evangelion - Round Here - Counting Crows - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2927716
+END=2936891
+title=164 - Hikaru no Go - Black Or White - Michael Jackson - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2936892
+END=2964460
+title=165 - Azumanga Daioh - "I Speak Jive" - Sound clip from Airplane! - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2964461
+END=2974011
+title=166 - Mahou Sensei Negima - The Riddle - Nik Kershaw - FoxJones
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2974012
+END=2988234
+title=167 - Full Metal Alchemist - Short People - Randy Newman - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2988235
+END=3003332
+title=168 - Excel Saga - Stayin' Alive - Bee Gees - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3003333
+END=3016721
+title=169 - Akira - Boss Of Me - They Might Be Giants - SpaceKase
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3016722
+END=3021934
+title=170 - Yu Yu Hakusho - Ice Ice Baby - Vanilla Ice - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3021935
+END=3024312
+title=Osaka Cutaway 9 (Backwards)
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3024313
+END=3034030
+title=171 - Armitage 3: Dual Matrix - I Think I'm A Clone Now - "Weird Al" Yankovic - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3034031
+END=3073235
+title=172 - Neon Genesis Evangelion - Evangelion Generation - DJ Jea - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3073236
+END=3076781
+title=173 - UFO Princess Valkyrie - Lock and Load - Denis Leary - FoxJones
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3076782
+END=3091754
+title=174 - Azumanga Daioh - Tunak Tunak Tun - Daler Mehndi - SnhKnives
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3091755
+END=3094298
+title=175 - Akira - "I Wanna Make Him An Offer He Can't Refuse" - Sound clip from The Godfather - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3094299
+END=3124495
+title=176 - Sailor Moon, Nadesico, and Others - Various Sound clips (Anime At Sea) - geirr
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3124496
+END=3131627
+title=177 - Last Exile - Co-Pilot - Letters To Cleo - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3131628
+END=3141846
+title=178 - Adolescence Of Utena - The Tide Is High - Blondie - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3141847
+END=3148144
+title=179 - Excel Saga - One Way Or Another - Blondie - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3148145
+END=3158487
+title=180 - Chobits - "For The Time Will Soon Come" - Sound clip from Lord Of The Rings - bubblehead
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3158488
+END=3170624
+title=181 - Excel Saga - Superhero - Stephen Lynch - EBwiz
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3170625
+END=3179842
+title=182 - Trigun - Safety Dance - Men Without Hats - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3179843
+END=3191062
+title=183 - Futakoi - "We Are Siamese" - from Lady and the Tramp - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3191063
+END=3221258
+title=184 - Metropolis - SupermanTheme - John Williams - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3221259
+END=3233813
+title=185 - Sailor Moon S - Love Machine - Smokey Robinson and the Miracles - Yokou Seishirou
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3233814
+END=3243948
+title=186 - Kodomo no Omocha - Shake Your Ass - Mystikal - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3243949
+END=3259713
+title=187 - His and Her Circumstances - Charles Manson speech to parole officers - Janzki
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3259714
+END=3273310
+title=188 - End Of Evangelion - I Think We're Alone Now - The Youth Ahead - Kusoyaro
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3273311
+END=3283904
+title=189 - Excel Saga - Ai (Chuuseishin) - Excel Girls - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3283905
+END=3323194
+title=190 - Cowboy Bebop - Stairway To Heaven - Led Zeppelin - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3323195
+END=3332786
+title=191 - Fruits Basket - Trash Day - "Weird Al" Yankovic - Yokou Seishirou
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3332787
+END=3348052
+title=192 - Excel Saga - Kill The Dog Next Door - Arrogant Worms - Rassej
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3348053
+END=3398644
+title=193 - Chobits - "At The Beach" skit - Sound clip from Mr. Bill - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3398645
+END=3411073
+title=194 - End Of Evangelion - The Touch - Stan Bush - rogueintellectproductions
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3411074
+END=3415911
+title=195 - Azumanga Daioh - "Hypnotoad" - Sound clip from Futurama - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3415912
+END=3441145
+title=196 - Hellsing - Pop A Top - Alan Jackson - badmartialarts
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3441146
+END=3449695
+title=197 - Excel Saga - Happy Together - The Turtles - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3449696
+END=3466837
+title=198 - Azumanga Daioh - Don't Even Try It - Sunrise - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3466838
+END=3491403
+title=199 - Bottle Fairy - Commando - Instant Remedy - FoxJones
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3491404
+END=3506418
+title=200 - Lens Flares - Blinded By The Light - Mannfred Mann & His Earth Band - VicBond008
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3506419
+END=3511924
+title=Osaka Cutaway 10 (Alarm)
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3511925
+END=3515135
+title=201 - Excel Saga - "Hey, Where're All The White Women At" - Sound clip from Blazing Saddles - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3515136
+END=3534863
+title=202 - Full Metal Panic: Fumoffu - Teddy Bear's Picnic - Henry Hill & His Orchestra - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3534864
+END=3569940
+title=203 - Akira - Wonderboy - Tenacious D - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3569941
+END=3586915
+title=204 - His and Her Circumstances - Carlos, Man Of Love - Rodney Carrington - SpaceKase
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3586916
+END=3592463
+title=205 - Excel Saga - Underneath Your Clothes - Shakira - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3592464
+END=3626788
+title=206 - Ah! My Goddess (TV) - Personal Jesus - Marilyn Manson - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3626789
+END=3645474
+title=207 - Lupin 3 - "Swiper No Swiping" - Sound clip from Dora The Explorer - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3645475
+END=3665619
+title=208 - One Piece - What Is Love? (Baby Don't Hurt Me) - Haddaway - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3665620
+END=3688559
+title=209 - Pokémon - Shock The Monkey - Coal Chamber feat. Ozzy Osbourne - AMV4000 & Tardo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3688560
+END=3734146
+title=210 - Akira - Young, Dumb, and Ugly - "Weird Al" Yankovic - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3734147
+END=3739776
+title=211 - Outlaw Star - 7 Days In The Sun - Feeder - Tono Fyr
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3739777
+END=3752164
+title=212 - Spirited Away - Secret Agent Man - Johnny Rivers - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3752165
+END=3768889
+title=213 - Speed Grapher - Brush Your Teeth - Kompressor - badmartialarts
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3768890
+END=3780942
+title=214 - Dragonball Z - "Let's Fighting Love" - from South Park - Yokou Seishirou
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3780943
+END=3801254
+title=215 - Azumanga Daioh - Believe - Franka Potente - Fake Kevin Caldwell
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3801255
+END=3807969
+title=216 - Excel Saga - Oompa-Loompa-Doompa-De-Do #1 from Willy Wonka and the Chocolate Factory - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3807970
+END=3830742
+title=217 - Pom Poko - Big Balls - AC/DC - Kusoyaro
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3830743
+END=3863233
+title=218 - Azumanga Daioh - Mosquito - DJ Alligator Project - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3863234
+END=3873577
+title=219 - Azumanga Daioh & Neon Genesis Evangelion - Fly Me To The Moon - Claire - Yokoshima-N
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3873578
+END=4130083
+title=220 - Ending Credits - Country Roads - Hermes House Band - Istiv (Re-edited by SSGWNBTD), Text by Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4130084
+END=4132460
+title=Osaka Cutaway 11 (End Of Credits)

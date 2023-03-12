@@ -7,6 +7,7 @@
 
 * `AMV Hell 1.avi`
 * `AMV Hell 2 - Son of AMV Hell (17+).avi`
+* `AMV Hell 3 - The Motion Picture.avi`
 
 ## Docs
 
