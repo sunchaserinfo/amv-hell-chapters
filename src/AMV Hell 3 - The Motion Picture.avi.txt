@@ -151,35 +151,35 @@
 00:41:15.389 141 - Crying Freeman - I'm Really Hot - Missy Elliot - badmartialarts
 00:41:33.866 142 - Oh My Goddess! - U Can't Touch This - MC Hammer - Kitsuner
 00:41:35.451 Osaka Cutaway 8 (Wassup!)
-143 - Yu Yu Hakusho - "Burlap Chafes Me So" - Sound clip from Pinky and the Brain - Kitsuner
-144 - New Fist Of The North Star - You're Beautiful - James Blunt - Tseng808
-145 - Excel Saga - I Will Survive (Remix) - Hermes House Band - Zarxrax
-146 - Princess Tutu - Ducktales - TV Theme - FoxJones
-147 - End Of Evangelion - Geico - TV Commercial - NeoMikey
-148 - Puni Puni Poemi - How Much Is The Fish? - Scooter - Zarxrax
-149 - Excel Saga - Aqualung - Jethro Tull - SSGWNBTD
-150 - Fist Of The North Star - Another One Bites The Dust - Queen - mckeed
-151 - Paranoia Agent - Original Audio (Colgate Sparkling) - Janzki
-152 - Grenadier - Click Click Boom - Saliva - Chaosprojects
-153 - Haibane Renmei - Drug Ballad - Eminem - Aluminum Studios
-154 - Neon Genesis Evangelion - "A Quake! A Quake!" - from Animaniacs - greenjinjo
-155 - Excel Saga - Terra (Final Fantasy VI) - Nobuo Uematsu - Sir Lagsalot
-156 - Bleach - Screaming - Sound clip from Bleach - SpaceKase
-157 - FLCL - Reebok - TV Commercial - Steakslim
-158 - Outlaw Star - Star Trek Rhapsody - Hillman Morning Show - Roll The Stampede
-159 - Elfen Lied - "I'm Batman" - Sound clip from Batman - SSGWNBTD
-160 - Fruits Basket & Naruto - "ANNA" - Sound clip from Family Guy - Yokou Seishirou
-161 - Full Metal Alchemist - I'm Too Sexy - Right Said Fred - GFBeach
-162 - Chobits - I Love My Computer - Bad Religion - Zarxrax
-163 - Neon Genesis Evangelion - Round Here - Counting Crows - SSGWNBTD
-164 - Hikaru no Go - Black Or White - Michael Jackson - Kitsuner
-165 - Azumanga Daioh - "I Speak Jive" - Sound clip from Airplane! - Zarxrax
-166 - Mahou Sensei Negima - The Riddle - Nik Kershaw - FoxJones
-167 - Full Metal Alchemist - Short People - Randy Newman - Kitsuner
-168 - Excel Saga - Stayin' Alive - Bee Gees - Kitsuner
-169 - Akira - Boss Of Me - They Might Be Giants - SpaceKase
-170 - Yu Yu Hakusho - Ice Ice Baby - Vanilla Ice - Kitsuner
-Osaka Cutaway 9 (Backwards)
+00:41:39.121 143 - Yu Yu Hakusho - "Burlap Chafes Me So" - Sound clip from Pinky and the Brain - Kitsuner
+00:41:46.337 144 - New Fist Of The North Star - You're Beautiful - James Blunt - Tseng808
+00:41:56.472 145 - Excel Saga - I Will Survive (Remix) - Hermes House Band - Zarxrax
+00:42:18.285 146 - Princess Tutu - Ducktales - TV Theme - FoxJones
+00:42:35.010 147 - End Of Evangelion - Geico - TV Commercial - NeoMikey
+00:43:03.164 148 - Puni Puni Poemi - How Much Is The Fish? - Scooter - Zarxrax
+00:43:11.922 149 - Excel Saga - Aqualung - Jethro Tull - SSGWNBTD
+00:43:46.624 150 - Fist Of The North Star - Another One Bites The Dust - Queen - mckeed
+00:44:23.369 151 - Paranoia Agent - Original Audio (Colgate Sparkling) - Janzki
+00:44:41.720 152 - Grenadier - Click Click Boom - Saliva - Chaosprojects
+00:44:57.069 153 - Haibane Renmei - Drug Ballad - Eminem - Aluminum Studios
+00:45:11.375 154 - Neon Genesis Evangelion - "A Quake! A Quake!" - from Animaniacs - greenjinjo
+00:45:17.965 155 - Excel Saga - Terra (Final Fantasy VI) - Nobuo Uematsu - Sir Lagsalot
+00:45:38.736 156 - Bleach - Screaming - Sound clip from Bleach - SpaceKase
+00:45:54.752 157 - FLCL - Reebok - TV Commercial - Steakslim
+00:46:00.174 158 - Outlaw Star - Star Trek Rhapsody - Hillman Morning Show - Roll The Stampede
+00:47:05.489 159 - Elfen Lied - "I'm Batman" - Sound clip from Batman - SSGWNBTD
+00:47:10.869 160 - Fruits Basket & Naruto - "ANNA" - Sound clip from Family Guy - Yokou Seishirou
+00:47:48.407 161 - Full Metal Alchemist - I'm Too Sexy - Right Said Fred - GFBeach
+00:47:58.959 162 - Chobits - I Love My Computer - Bad Religion - Zarxrax
+00:48:17.895 163 - Neon Genesis Evangelion - Round Here - Counting Crows - SSGWNBTD
+00:48:47.716 164 - Hikaru no Go - Black Or White - Michael Jackson - Kitsuner
+00:48:56.892 165 - Azumanga Daioh - "I Speak Jive" - Sound clip from Airplane! - Zarxrax
+00:49:24.461 166 - Mahou Sensei Negima - The Riddle - Nik Kershaw - FoxJones
+00:49:34.012 167 - Full Metal Alchemist - Short People - Randy Newman - Kitsuner
+00:49:48.235 168 - Excel Saga - Stayin' Alive - Bee Gees - Kitsuner
+00:50:03.333 169 - Akira - Boss Of Me - They Might Be Giants - SpaceKase
+00:50:16.722 170 - Yu Yu Hakusho - Ice Ice Baby - Vanilla Ice - Kitsuner
+00:50:21.935 Osaka Cutaway 9 (Backwards)
 171 - Armitage 3: Dual Matrix - I Think I'm A Clone Now - "Weird Al" Yankovic - Kitsuner
 172 - Neon Genesis Evangelion - Evangelion Generation - DJ Jea - Zarxrax
 173 - UFO Princess Valkyrie - Lock and Load - Denis Leary - FoxJones
