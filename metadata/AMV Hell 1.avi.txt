@@ -1,0 +1,108 @@
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=16056
+title=1 - Introduction - O Fortuna - Carl Orff - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16057
+END=35993
+title=2 - Eiken - Penis Fly Trap - Vomitron - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=35994
+END=54470
+title=3 - Azumanga Daioh - Ironside Excerpt - Quincy Jones - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=54471
+END=61727
+title=4 - Hanada Shounen-shi - Spank My Booty - Lords of Acid - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=61728
+END=83916
+title=5 - Berserk - Anything You Can Do - Annie Get Your Gun - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=83917
+END=91632
+title=6 - Love Hina - I Believe I Can Fly - R. Kelly - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=91633
+END=121829
+title=7 - Azumanga Daioh - Ellen Feiss Switch Commercial - Apple - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=121830
+END=128001
+title=8 - Gravitation - Man! I Feel Like a Woman - Shania Twain - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=128002
+END=137469
+title=9 - Cowboy Bebop - America Will Blow Up The Moon - Mr. Show with Bob & David - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=137470
+END=147271
+title=10 - Naruto - Ninja Rap - Vanilla Ice - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=147272
+END=156363
+title=11 - Sugar: A Little Snow Fairy - The Real Suga Bay Bee - Suga Bay Bee - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=156364
+END=178927
+title=12 - Grave Of The Fireflies - If You Love Somebody, Set Them on Fire - The Dead Milkmen - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=178928
+END=188353
+title=13 - Azumanga Daioh - Candy Girl - Bambee - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=188354
+END=202659
+title=14 - Black Jack - Like a Surgeon - "Weird Al" Yankovic - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=202660
+END=222262
+title=15 - Jin-Roh - Hungry Like The Wolf - Reel Big Fish - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=222263
+END=244201
+title=16 - Battle Athletes Victory - Move Bitch - Ludacris - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=244202
+END=271895
+title=17 - On Your Mark - Chinese Coca-Cola Remix - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=271896
+END=305345
+title=18 - Various - The Passion of the Christ Trailer - Zarxrax

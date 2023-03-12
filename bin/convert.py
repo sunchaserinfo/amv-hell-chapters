@@ -13,6 +13,7 @@ def process_file(src, dst):
         for line in f:
             x = re.match(r'(\d{1,2}):(\d{1,2}):(\d{1,2}).(\d{3}) (.*)', line)
             if x is None:
+                print(f'Skipping line: {line}', end='')
                 continue
 
             h = int(x.group(1))
