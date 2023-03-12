@@ -16,43 +16,43 @@
 00:06:33.309 15 - Battle Athletes Victory - I Ran (So Far Away) - A Flock Of Seagulls - bobo4me
 00:06:47.698 16 - Hellsing - Where In The World Is Carmen Sandiego? - Rockapella - SSGWNBTD
 00:07:15.351 Osaka Cutaway 2
-17 - FLCL - Perry Had A Pimple - Heywood Banks - Kitsunebeolnet
-18 - Naruto - "I Love My Lips" - Sound clip from VeggieTales - Kitsuner
-19 - Azumanga Daioh - National Anthem Of The USSR - Red Army Choir - Janzki
-20 - Azumanga Daioh - "Heil Hitler!" - Sound clip from Family Guy - Kitsuner
-21 - End Of Evangelion - My Heart Will Go On - Celine Dion - Kusoyaro
-22 - Cowboy Bebop - I Just Died In Your Arms Tonight - Cutting Crew - AJip
-23 - To Heart - "Multikill" - Sound clips from Unreal Tournament - FoxJones
-24 - Akira - Fresh Prince Of Bel-AirTheme - Will Smith - Zarxrax
-25 - Cowboy Bebop (movie) - "I Couldn't String Together Two Sentences To Save My Life" - Sound clip from "You Don't Know Jack" - AMV4000 & Tardo
-26 - Azumanga Daioh - Sacred Power Of Raging Winds - Rhapsody - SSGWNBTD
-27 - Fushigi Yuugi - Date Rape - Sublime - badmartialarts
-28 - Neon Genesis Evangelion - "Man Getting Hit By Football" - Sound clip from The Simpsons - Castor Troy
-29 - Card Captor Sakura - "Elephant Love Medley" (from Moulin Rouge) - Ewan McGregor and Nicole Kidman - Tsunami Jones
-30 - Neon Genesis Evangelion - Internal Combustion Engine Imitation - Daniel Malmedahl - CHAMELEON_D_H
-31 - Mahou Sensei Negima - "Cooking Is So Fun" - Sound clip from Azumanga Daioh - Kitsuner
-32 - Sailor Moon - "My Nipples Are Getting Hard" - Sound clip from Sealab 2021 - Kitsuner
-33 - Ranma ½ - Don't Make Me Wet - E-Rotic - Kitsuner
-Osaka Cutaway 3
-34 - Paranoia Agent - BatmanTheme - Neal Hefti - badmartialarts
-35 - Sonic The Hedgehog (movie) - Respek Knuckles - Matt Chapman - Kitsuner
-36 - Adolescence Of Utena - "Toga Party" - Sound clip from Animal House - Kitsuner
-37 - Dragonball Z - I Will Always Love You - Whitney Houston - Pie Row Maniac
-38 - Excel Saga - G.I. Joe - TV Commercial - Tsunami Jones
-39 - Fruits Basket - The Bad Touch - Bloodhound Gang - Trythil
-40 - Cowboy Bebop - Sexy Thing - Hot Chocolate - AJip
-41 - Hamtaro - Stupify - Disturbed - Rob Kenchu
-42 - Read Or Die - "Two Dollars Cash" - Sound clip from Better Off Dead - SSGWNBTD
-43 - Hand Maid May - Faded - Souldecision - wuwu
-44 - Perfect Blue - Mighty Morphin Power Rangers - TV Theme - Zarxrax
-45 - Neon Genesis Evangelion - Joseph Goebbels Speech - Janzki
-46 - Cowboy Bebop (movie) - Tunak Tunak Tun - Daler Mehndi - KentaroPJJ
-47 - Legend Of The Mystical Ninja - Con Insanity - Gendou and the Faqugaywhads - Mr. Pilkington
-48 - Full Metal Alchemist - Human Peer Bonding skit - Red vs. Blue - GFBeach
-49 - Love Hina - Gossip Folks - Missy Elliot - Alpha_Hazard
-50 - Dragonball Z - Memory Remains - Metallica - SSGWNBTD
-51 - Hanada Shounen Shi - Howdy Doody - TV Theme - Zarxrax
-Osaka Cutaway 4 (Upside Down)
+00:07:17.728 17 - FLCL - Perry Had A Pimple - Heywood Banks - Kitsunebeolnet
+00:07:41.544 18 - Naruto - "I Love My Lips" - Sound clip from VeggieTales - Kitsuner
+00:07:43.713 19 - Azumanga Daioh - National Anthem Of The USSR - Red Army Choir - Janzki
+00:08:11.699 20 - Azumanga Daioh - "Heil Hitler!" - Sound clip from Family Guy - Kitsuner
+00:08:12.909 21 - End Of Evangelion - My Heart Will Go On - Celine Dion - Kusoyaro
+00:08:41.896 22 - Cowboy Bebop - I Just Died In Your Arms Tonight - Cutting Crew - AJip
+00:09:06.379 23 - To Heart - "Multikill" - Sound clips from Unreal Tournament - FoxJones
+00:09:11.842 24 - Akira - Fresh Prince Of Bel-AirTheme - Will Smith - Zarxrax
+00:09:24.063 25 - Cowboy Bebop (movie) - "I Couldn't String Together Two Sentences To Save My Life" - Sound clip from "You Don't Know Jack" - AMV4000 & Tardo
+00:09:29.068 26 - Azumanga Daioh - Sacred Power Of Raging Winds - Rhapsody - SSGWNBTD
+00:10:05.271 27 - Fushigi Yuugi - Date Rape - Sublime - badmartialarts
+00:10:23.497 28 - Neon Genesis Evangelion - "Man Getting Hit By Football" - Sound clip from The Simpsons - Castor Troy
+00:10:33.674 29 - Card Captor Sakura - "Elephant Love Medley" (from Moulin Rouge) - Ewan McGregor and Nicole Kidman - Tsunami Jones
+00:10:49.357 30 - Neon Genesis Evangelion - Internal Combustion Engine Imitation - Daniel Malmedahl - CHAMELEON_D_H
+00:11:04.038 31 - Mahou Sensei Negima - "Cooking Is So Fun" - Sound clip from Azumanga Daioh - Kitsuner
+00:11:14.256 32 - Sailor Moon - "My Nipples Are Getting Hard" - Sound clip from Sealab 2021 - Kitsuner
+00:11:17.802 33 - Ranma ½ - Don't Make Me Wet - E-Rotic - Kitsuner
+00:11:28.771 Osaka Cutaway 3
+00:11:30.773 34 - Paranoia Agent - BatmanTheme - Neal Hefti - badmartialarts
+00:11:45.162 35 - Sonic The Hedgehog (movie) - Respek Knuckles - Matt Chapman - Kitsuner
+00:11:47.748 36 - Adolescence Of Utena - "Toga Party" - Sound clip from Animal House - Kitsuner
+00:11:51.794 37 - Dragonball Z - I Will Always Love You - Whitney Houston - Pie Row Maniac
+00:12:05.433 38 - Excel Saga - G.I. Joe - TV Commercial - Tsunami Jones
+00:12:13.482 39 - Fruits Basket - The Bad Touch - Bloodhound Gang - Trythil
+00:12:21.449 40 - Cowboy Bebop - Sexy Thing - Hot Chocolate - AJip
+00:12:38.382 41 - Hamtaro - Stupify - Disturbed - Rob Kenchu
+00:12:48.601 42 - Read Or Die - "Two Dollars Cash" - Sound clip from Better Off Dead - SSGWNBTD
+00:13:05.743 43 - Hand Maid May - Faded - Souldecision - wuwu
+00:13:15.586 44 - Perfect Blue - Mighty Morphin Power Rangers - TV Theme - Zarxrax
+00:13:32.019 45 - Neon Genesis Evangelion - Joseph Goebbels Speech - Janzki
+00:13:45.241 46 - Cowboy Bebop (movie) - Tunak Tunak Tun - Daler Mehndi - KentaroPJJ
+00:13:52.081 47 - Legend Of The Mystical Ninja - Con Insanity - Gendou and the Faqugaywhads - Mr. Pilkington
+00:14:16.856 48 - Full Metal Alchemist - Human Peer Bonding skit - Red vs. Blue - GFBeach
+00:14:40.337 49 - Love Hina - Gossip Folks - Missy Elliot - Alpha_Hazard
+00:14:50.264 50 - Dragonball Z - Memory Remains - Metallica - SSGWNBTD
+00:15:21.170 51 - Hanada Shounen Shi - Howdy Doody - TV Theme - Zarxrax
+00:15:28.552 Osaka Cutaway 4 (Upside Down)
 52 - Super Gals - Clueless - TV Theme - Roll The Stampede
 53 - Bleach - Winnie The PoohClassic Theme - Yokou Seishirou
 54 - Battle Angel Alita - Truly Madly Deeply - Midnight Ramblers - Trythil

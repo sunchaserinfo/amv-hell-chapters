@@ -105,5 +105,227 @@ title=16 - Hellsing - Where In The World Is Carmen Sandiego? - Rockapella - SSGW
 [CHAPTER]
 TIMEBASE=1/1000
 START=435351
-END=4124411
+END=437727
 title=Osaka Cutaway 2
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=437728
+END=461543
+title=17 - FLCL - Perry Had A Pimple - Heywood Banks - Kitsunebeolnet
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=461544
+END=463712
+title=18 - Naruto - "I Love My Lips" - Sound clip from VeggieTales - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=463713
+END=491698
+title=19 - Azumanga Daioh - National Anthem Of The USSR - Red Army Choir - Janzki
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=491699
+END=492908
+title=20 - Azumanga Daioh - "Heil Hitler!" - Sound clip from Family Guy - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=492909
+END=521895
+title=21 - End Of Evangelion - My Heart Will Go On - Celine Dion - Kusoyaro
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=521896
+END=546378
+title=22 - Cowboy Bebop - I Just Died In Your Arms Tonight - Cutting Crew - AJip
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=546379
+END=551841
+title=23 - To Heart - "Multikill" - Sound clips from Unreal Tournament - FoxJones
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=551842
+END=564062
+title=24 - Akira - Fresh Prince Of Bel-AirTheme - Will Smith - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=564063
+END=569067
+title=25 - Cowboy Bebop (movie) - "I Couldn't String Together Two Sentences To Save My Life" - Sound clip from "You Don't Know Jack" - AMV4000 & Tardo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=569068
+END=605270
+title=26 - Azumanga Daioh - Sacred Power Of Raging Winds - Rhapsody - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=605271
+END=623496
+title=27 - Fushigi Yuugi - Date Rape - Sublime - badmartialarts
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=623497
+END=633673
+title=28 - Neon Genesis Evangelion - "Man Getting Hit By Football" - Sound clip from The Simpsons - Castor Troy
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=633674
+END=649356
+title=29 - Card Captor Sakura - "Elephant Love Medley" (from Moulin Rouge) - Ewan McGregor and Nicole Kidman - Tsunami Jones
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=649357
+END=664037
+title=30 - Neon Genesis Evangelion - Internal Combustion Engine Imitation - Daniel Malmedahl - CHAMELEON_D_H
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=664038
+END=674255
+title=31 - Mahou Sensei Negima - "Cooking Is So Fun" - Sound clip from Azumanga Daioh - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=674256
+END=677801
+title=32 - Sailor Moon - "My Nipples Are Getting Hard" - Sound clip from Sealab 2021 - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=677802
+END=688770
+title=33 - Ranma ½ - Don't Make Me Wet - E-Rotic - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=688771
+END=690772
+title=Osaka Cutaway 3
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=690773
+END=705161
+title=34 - Paranoia Agent - BatmanTheme - Neal Hefti - badmartialarts
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=705162
+END=707747
+title=35 - Sonic The Hedgehog (movie) - Respek Knuckles - Matt Chapman - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=707748
+END=711793
+title=36 - Adolescence Of Utena - "Toga Party" - Sound clip from Animal House - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=711794
+END=725432
+title=37 - Dragonball Z - I Will Always Love You - Whitney Houston - Pie Row Maniac
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=725433
+END=733481
+title=38 - Excel Saga - G.I. Joe - TV Commercial - Tsunami Jones
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=733482
+END=741448
+title=39 - Fruits Basket - The Bad Touch - Bloodhound Gang - Trythil
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=741449
+END=758381
+title=40 - Cowboy Bebop - Sexy Thing - Hot Chocolate - AJip
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=758382
+END=768600
+title=41 - Hamtaro - Stupify - Disturbed - Rob Kenchu
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=768601
+END=785742
+title=42 - Read Or Die - "Two Dollars Cash" - Sound clip from Better Off Dead - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=785743
+END=795585
+title=43 - Hand Maid May - Faded - Souldecision - wuwu
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=795586
+END=812018
+title=44 - Perfect Blue - Mighty Morphin Power Rangers - TV Theme - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=812019
+END=825240
+title=45 - Neon Genesis Evangelion - Joseph Goebbels Speech - Janzki
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=825241
+END=832080
+title=46 - Cowboy Bebop (movie) - Tunak Tunak Tun - Daler Mehndi - KentaroPJJ
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=832081
+END=856855
+title=47 - Legend Of The Mystical Ninja - Con Insanity - Gendou and the Faqugaywhads - Mr. Pilkington
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=856856
+END=880336
+title=48 - Full Metal Alchemist - Human Peer Bonding skit - Red vs. Blue - GFBeach
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=880337
+END=890263
+title=49 - Love Hina - Gossip Folks - Missy Elliot - Alpha_Hazard
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=890264
+END=921169
+title=50 - Dragonball Z - Memory Remains - Metallica - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=921170
+END=928551
+title=51 - Hanada Shounen Shi - Howdy Doody - TV Theme - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=928552
+END=4124411
+title=Osaka Cutaway 4 (Upside Down)
