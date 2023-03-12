@@ -6,6 +6,7 @@ import os
 import sys
 import re
 
+
 def process_file(src, dst):
     chapters = list()
 
@@ -28,7 +29,7 @@ def process_file(src, dst):
                 'ts': ts,
             })
 
-    result = ''
+    result = ';FFMETADATA1\n'
 
     for i in range(len(chapters) - 1):
         chap = chapters[i]
