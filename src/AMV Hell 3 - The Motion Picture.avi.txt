@@ -180,38 +180,38 @@
 00:50:03.333 169 - Akira - Boss Of Me - They Might Be Giants - SpaceKase
 00:50:16.722 170 - Yu Yu Hakusho - Ice Ice Baby - Vanilla Ice - Kitsuner
 00:50:21.935 Osaka Cutaway 9 (Backwards)
-171 - Armitage 3: Dual Matrix - I Think I'm A Clone Now - "Weird Al" Yankovic - Kitsuner
-172 - Neon Genesis Evangelion - Evangelion Generation - DJ Jea - Zarxrax
-173 - UFO Princess Valkyrie - Lock and Load - Denis Leary - FoxJones
-174 - Azumanga Daioh - Tunak Tunak Tun - Daler Mehndi - SnhKnives
-175 - Akira - "I Wanna Make Him An Offer He Can't Refuse" - Sound clip from The Godfather - Kitsuner
-176 - Sailor Moon, Nadesico, and Others - Various Sound clips (Anime At Sea) - geirr
-177 - Last Exile - Co-Pilot - Letters To Cleo - SSGWNBTD
-178 - Adolescence Of Utena - The Tide Is High - Blondie - Kitsuner
-179 - Excel Saga - One Way Or Another - Blondie - Kitsuner
-180 - Chobits - "For The Time Will Soon Come" - Sound clip from Lord Of The Rings - bubblehead
-181 - Excel Saga - Superhero - Stephen Lynch - EBwiz
-182 - Trigun - Safety Dance - Men Without Hats - Kitsuner
-183 - Futakoi - "We Are Siamese" - from Lady and the Tramp - Zarxrax
-184 - Metropolis - SupermanTheme - John Williams - SSGWNBTD
-185 - Sailor Moon S - Love Machine - Smokey Robinson and the Miracles - Yokou Seishirou
-186 - Kodomo no Omocha - Shake Your Ass - Mystikal - Zarxrax
-187 - His and Her Circumstances - Charles Manson speech to parole officers - Janzki
-188 - End Of Evangelion - I Think We're Alone Now - The Youth Ahead - Kusoyaro
-189 - Excel Saga - Ai (Chuuseishin) - Excel Girls - Zarxrax
-190 - Cowboy Bebop - Stairway To Heaven - Led Zeppelin - SSGWNBTD
-191 - Fruits Basket - Trash Day - "Weird Al" Yankovic - Yokou Seishirou
-192 - Excel Saga - Kill The Dog Next Door - Arrogant Worms - Rassej
-193 - Chobits - "At The Beach" skit - Sound clip from Mr. Bill - Zarxrax
-194 - End Of Evangelion - The Touch - Stan Bush - rogueintellectproductions
-195 - Azumanga Daioh - "Hypnotoad" - Sound clip from Futurama - SSGWNBTD
-196 - Hellsing - Pop A Top - Alan Jackson - badmartialarts
-197 - Excel Saga - Happy Together - The Turtles - Kitsuner
-198 - Azumanga Daioh - Don't Even Try It - Sunrise - Zarxrax
-199 - Bottle Fairy - Commando - Instant Remedy - FoxJones
-200 - Lens Flares - Blinded By The Light - Mannfred Mann & His Earth Band - VicBond008
-Osaka Cutaway 10 (Alarm)
-201 - Excel Saga - "Hey, Where're All The White Women At" - Sound clip from Blazing Saddles - Kitsuner
+00:50:24.313 171 - Armitage 3: Dual Matrix - I Think I'm A Clone Now - "Weird Al" Yankovic - Kitsuner
+00:50:34.031 172 - Neon Genesis Evangelion - Evangelion Generation - DJ Jea - Zarxrax
+00:51:13.236 173 - UFO Princess Valkyrie - Lock and Load - Denis Leary - FoxJones
+00:51:16.782 174 - Azumanga Daioh - Tunak Tunak Tun - Daler Mehndi - SnhKnives
+00:51:31.755 175 - Akira - "I Wanna Make Him An Offer He Can't Refuse" - Sound clip from The Godfather - Kitsuner
+00:51:34.299 176 - Sailor Moon, Nadesico, and Others - Various Sound clips (Anime At Sea) - geirr
+00:52:04.496 177 - Last Exile - Co-Pilot - Letters To Cleo - SSGWNBTD
+00:52:11.628 178 - Adolescence Of Utena - The Tide Is High - Blondie - Kitsuner
+00:52:21.847 179 - Excel Saga - One Way Or Another - Blondie - Kitsuner
+00:52:28.145 180 - Chobits - "For The Time Will Soon Come" - Sound clip from Lord Of The Rings - bubblehead
+00:52:38.488 181 - Excel Saga - Superhero - Stephen Lynch - EBwiz
+00:52:50.625 182 - Trigun - Safety Dance - Men Without Hats - Kitsuner
+00:52:59.843 183 - Futakoi - "We Are Siamese" - from Lady and the Tramp - Zarxrax
+00:53:11.063 184 - Metropolis - SupermanTheme - John Williams - SSGWNBTD
+00:53:41.259 185 - Sailor Moon S - Love Machine - Smokey Robinson and the Miracles - Yokou Seishirou
+00:53:53.814 186 - Kodomo no Omocha - Shake Your Ass - Mystikal - Zarxrax
+00:54:03.949 187 - His and Her Circumstances - Charles Manson speech to parole officers - Janzki
+00:54:19.714 188 - End Of Evangelion - I Think We're Alone Now - The Youth Ahead - Kusoyaro
+00:54:33.311 189 - Excel Saga - Ai (Chuuseishin) - Excel Girls - Zarxrax
+00:54:43.905 190 - Cowboy Bebop - Stairway To Heaven - Led Zeppelin - SSGWNBTD
+00:55:23.195 191 - Fruits Basket - Trash Day - "Weird Al" Yankovic - Yokou Seishirou
+00:55:32.787 192 - Excel Saga - Kill The Dog Next Door - Arrogant Worms - Rassej
+00:55:48.053 193 - Chobits - "At The Beach" skit - Sound clip from Mr. Bill - Zarxrax
+00:56:38.645 194 - End Of Evangelion - The Touch - Stan Bush - rogueintellectproductions
+00:56:51.074 195 - Azumanga Daioh - "Hypnotoad" - Sound clip from Futurama - SSGWNBTD
+00:56:55.912 196 - Hellsing - Pop A Top - Alan Jackson - badmartialarts
+00:57:21.146 197 - Excel Saga - Happy Together - The Turtles - Kitsuner
+00:57:29.696 198 - Azumanga Daioh - Don't Even Try It - Sunrise - Zarxrax
+00:57:46.838 199 - Bottle Fairy - Commando - Instant Remedy - FoxJones
+00:58:11.404 200 - Lens Flares - Blinded By The Light - Mannfred Mann & His Earth Band - VicBond008
+00:58:26.419 Osaka Cutaway 10 (Alarm)
+00:58:31.925 201 - Excel Saga - "Hey, Where're All The White Women At" - Sound clip from Blazing Saddles - Kitsuner
 202 - Full Metal Panic: Fumoffu - Teddy Bear's Picnic - Henry Hill & His Orchestra - Zarxrax
 203 - Akira - Wonderboy - Tenacious D - SSGWNBTD
 204 - His and Her Circumstances - Carlos, Man Of Love - Rodney Carrington - SpaceKase
