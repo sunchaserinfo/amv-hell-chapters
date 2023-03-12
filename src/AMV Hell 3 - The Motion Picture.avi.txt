@@ -1,21 +1,21 @@
-1 - Introduction - Highway To Hell - AC/DC - 3D Animation by Chris Bobko
-2 - Grenadier - Dark Chest Of Wonders - Nightwish - SSGWNBTD
-3 - Azumanga Daioh - Twisted Nerve - Bernard Herrmann - SSGWNBTD
-4 - Neon Genesis Evangelion - Sucks To Be You - Prozzak - Janzki
-5 - Berserk - All In The Family - TV Theme - SSGWNBTD
-6 - Love Hina - Do You Really Want To Hurt Me? - Culture Club - Kitsuner
-Osaka Cutaway 1
-7 - Gravitation - Tornado - Mindless Self Indulgence - Mr. Pilkington
-8 - Azumanga Daioh - Anti-Drug Sketch - Dave Chappelle - Chaosprojects
-9 - Naruto - Willie and the Hand Jive - Bo Diddley - Zarxrax
-10 - Tiny Snow Fairy Sugar - Pour Some Sugar On Me - Def Leppard - Roll The Stampede
-11 - Grave Of The Fireflies - Disco Inferno - The Trammps - Roll The Stampede
-12 - Azumanga Daioh - Walk This Way - Run-DMC - Zarxrax
-13 - Yakitate!! Japan - Theme From Rocky XIII - "Weird Al" Yankovic - SSGWNBTD
-14 - Akira - Dive Bomb Song - Jud Jud - Alpha_Hazard
-15 - Battle Athletes Victory - I Ran (So Far Away) - A Flock Of Seagulls - bobo4me
-16 - Hellsing - Where In The World Is Carmen Sandiego? - Rockapella - SSGWNBTD
-Osaka Cutaway 2
+00:00:00.000 1 - Introduction - Highway To Hell - AC/DC - 3D Animation by Chris Bobko
+00:02:29.858 2 - Grenadier - Dark Chest Of Wonders - Nightwish - SSGWNBTD
+00:03:00.096 3 - Azumanga Daioh - Twisted Nerve - Bernard Herrmann - SSGWNBTD
+00:03:47.143 4 - Neon Genesis Evangelion - Sucks To Be You - Prozzak - Janzki
+00:03:55.276 5 - Berserk - All In The Family - TV Theme - SSGWNBTD
+00:04:38.569 6 - Love Hina - Do You Really Want To Hurt Me? - Culture Club - Kitsuner
+00:04:48.788 Osaka Cutaway 1
+00:04:53.960 7 - Gravitation - Tornado - Mindless Self Indulgence - Mr. Pilkington
+00:04:59.299 8 - Azumanga Daioh - Anti-Drug Sketch - Dave Chappelle - Chaosprojects
+00:05:05.471 9 - Naruto - Willie and the Hand Jive - Bo Diddley - Zarxrax
+00:05:16.190 10 - Tiny Snow Fairy Sugar - Pour Some Sugar On Me - Def Leppard - Roll The Stampede
+00:05:33.207 11 - Grave Of The Fireflies - Disco Inferno - The Trammps - Roll The Stampede
+00:05:48.681 12 - Azumanga Daioh - Walk This Way - Run-DMC - Zarxrax
+00:05:54.354 13 - Yakitate!! Japan - Theme From Rocky XIII - "Weird Al" Yankovic - SSGWNBTD
+00:06:14.707 14 - Akira - Dive Bomb Song - Jud Jud - Alpha_Hazard
+00:06:33.309 15 - Battle Athletes Victory - I Ran (So Far Away) - A Flock Of Seagulls - bobo4me
+00:06:47.698 16 - Hellsing - Where In The World Is Carmen Sandiego? - Rockapella - SSGWNBTD
+00:07:15.351 Osaka Cutaway 2
 17 - FLCL - Perry Had A Pimple - Heywood Banks - Kitsunebeolnet
 18 - Naruto - "I Love My Lips" - Sound clip from VeggieTales - Kitsuner
 19 - Azumanga Daioh - National Anthem Of The USSR - Red Army Choir - Janzki
@@ -230,3 +230,4 @@ Osaka Cutaway 10 (Alarm)
 219 - Azumanga Daioh & Neon Genesis Evangelion - Fly Me To The Moon - Claire - Yokoshima-N
 220 - Ending Credits - Country Roads - Hermes House Band - Istiv (Re-edited by SSGWNBTD), Text by Zarxrax
 Osaka Cutaway 11 (End Of Credits)
+01:08:44.412 END

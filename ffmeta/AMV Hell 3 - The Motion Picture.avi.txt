@@ -1,0 +1,109 @@
+;FFMETADATA1
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=149857
+title=1 - Introduction - Highway To Hell - AC/DC - 3D Animation by Chris Bobko
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=149858
+END=180095
+title=2 - Grenadier - Dark Chest Of Wonders - Nightwish - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=180096
+END=227142
+title=3 - Azumanga Daioh - Twisted Nerve - Bernard Herrmann - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=227143
+END=235275
+title=4 - Neon Genesis Evangelion - Sucks To Be You - Prozzak - Janzki
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=235276
+END=278568
+title=5 - Berserk - All In The Family - TV Theme - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=278569
+END=288787
+title=6 - Love Hina - Do You Really Want To Hurt Me? - Culture Club - Kitsuner
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=288788
+END=293959
+title=Osaka Cutaway 1
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=293960
+END=299298
+title=7 - Gravitation - Tornado - Mindless Self Indulgence - Mr. Pilkington
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=299299
+END=305470
+title=8 - Azumanga Daioh - Anti-Drug Sketch - Dave Chappelle - Chaosprojects
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=305471
+END=316189
+title=9 - Naruto - Willie and the Hand Jive - Bo Diddley - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=316190
+END=333206
+title=10 - Tiny Snow Fairy Sugar - Pour Some Sugar On Me - Def Leppard - Roll The Stampede
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=333207
+END=348680
+title=11 - Grave Of The Fireflies - Disco Inferno - The Trammps - Roll The Stampede
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=348681
+END=354353
+title=12 - Azumanga Daioh - Walk This Way - Run-DMC - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=354354
+END=374706
+title=13 - Yakitate!! Japan - Theme From Rocky XIII - "Weird Al" Yankovic - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=374707
+END=393308
+title=14 - Akira - Dive Bomb Song - Jud Jud - Alpha_Hazard
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=393309
+END=407697
+title=15 - Battle Athletes Victory - I Ran (So Far Away) - A Flock Of Seagulls - bobo4me
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=407698
+END=435350
+title=16 - Hellsing - Where In The World Is Carmen Sandiego? - Rockapella - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=435351
+END=4124411
+title=Osaka Cutaway 2
