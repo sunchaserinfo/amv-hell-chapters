@@ -212,24 +212,24 @@
 00:58:11.404 200 - Lens Flares - Blinded By The Light - Mannfred Mann & His Earth Band - VicBond008
 00:58:26.419 Osaka Cutaway 10 (Alarm)
 00:58:31.925 201 - Excel Saga - "Hey, Where're All The White Women At" - Sound clip from Blazing Saddles - Kitsuner
-202 - Full Metal Panic: Fumoffu - Teddy Bear's Picnic - Henry Hill & His Orchestra - Zarxrax
-203 - Akira - Wonderboy - Tenacious D - SSGWNBTD
-204 - His and Her Circumstances - Carlos, Man Of Love - Rodney Carrington - SpaceKase
-205 - Excel Saga - Underneath Your Clothes - Shakira - Kitsuner
-206 - Ah! My Goddess (TV) - Personal Jesus - Marilyn Manson - SSGWNBTD
-207 - Lupin 3 - "Swiper No Swiping" - Sound clip from Dora The Explorer - Kitsuner
-208 - One Piece - What Is Love? (Baby Don't Hurt Me) - Haddaway - Zarxrax
-209 - Pokémon - Shock The Monkey - Coal Chamber feat. Ozzy Osbourne - AMV4000 & Tardo
-210 - Akira - Young, Dumb, and Ugly - "Weird Al" Yankovic - Zarxrax
-211 - Outlaw Star - 7 Days In The Sun - Feeder - Tono Fyr
-212 - Spirited Away - Secret Agent Man - Johnny Rivers - Zarxrax
-213 - Speed Grapher - Brush Your Teeth - Kompressor - badmartialarts
-214 - Dragonball Z - "Let's Fighting Love" - from South Park - Yokou Seishirou
-215 - Azumanga Daioh - Believe - Franka Potente - Fake Kevin Caldwell
-216 - Excel Saga - Oompa-Loompa-Doompa-De-Do #1 from Willy Wonka and the Chocolate Factory - Kitsuner
-217 - Pom Poko - Big Balls - AC/DC - Kusoyaro
-218 - Azumanga Daioh - Mosquito - DJ Alligator Project - Zarxrax
-219 - Azumanga Daioh & Neon Genesis Evangelion - Fly Me To The Moon - Claire - Yokoshima-N
-220 - Ending Credits - Country Roads - Hermes House Band - Istiv (Re-edited by SSGWNBTD), Text by Zarxrax
-Osaka Cutaway 11 (End Of Credits)
-01:08:44.412 END
+00:58:35.136 202 - Full Metal Panic: Fumoffu - Teddy Bear's Picnic - Henry Hill & His Orchestra - Zarxrax
+00:58:54.864 203 - Akira - Wonderboy - Tenacious D - SSGWNBTD
+00:59:29.941 204 - His and Her Circumstances - Carlos, Man Of Love - Rodney Carrington - SpaceKase
+00:59:46.916 205 - Excel Saga - Underneath Your Clothes - Shakira - Kitsuner
+00:59:52.464 206 - Ah! My Goddess (TV) - Personal Jesus - Marilyn Manson - SSGWNBTD
+01:00:26.789 207 - Lupin 3 - "Swiper No Swiping" - Sound clip from Dora The Explorer - Kitsuner
+01:00:45.475 208 - One Piece - What Is Love? (Baby Don't Hurt Me) - Haddaway - Zarxrax
+01:01:05.620 209 - Pokémon - Shock The Monkey - Coal Chamber feat. Ozzy Osbourne - AMV4000 & Tardo
+01:01:28.560 210 - Akira - Young, Dumb, and Ugly - "Weird Al" Yankovic - Zarxrax
+01:02:14.147 211 - Outlaw Star - 7 Days In The Sun - Feeder - Tono Fyr
+01:02:19.777 212 - Spirited Away - Secret Agent Man - Johnny Rivers - Zarxrax
+01:02:32.165 213 - Speed Grapher - Brush Your Teeth - Kompressor - badmartialarts
+01:02:48.890 214 - Dragonball Z - "Let's Fighting Love" - from South Park - Yokou Seishirou
+01:03:00.943 215 - Azumanga Daioh - Believe - Franka Potente - Fake Kevin Caldwell
+01:03:21.255 216 - Excel Saga - Oompa-Loompa-Doompa-De-Do #1 from Willy Wonka and the Chocolate Factory - Kitsuner
+01:03:27.970 217 - Pom Poko - Big Balls - AC/DC - Kusoyaro
+01:03:50.743 218 - Azumanga Daioh - Mosquito - DJ Alligator Project - Zarxrax
+01:04:23.234 219 - Azumanga Daioh & Neon Genesis Evangelion - Fly Me To The Moon - Claire - Yokoshima-N
+01:04:33.578 220 - Ending Credits - Country Roads - Hermes House Band - Istiv (Re-edited by SSGWNBTD), Text by Zarxrax
+01:08:50.084 Osaka Cutaway 11 (End Of Credits)
+01:08:52.461 END
