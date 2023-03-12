@@ -133,24 +133,24 @@
 00:36:25.558 124 - Pokémon - Thunderstruck - AC/DC - SpaceKase
 00:36:30.605 125 - Excel Saga - National Gun Association skit - Steel Dakota - Mr. Pilkington
 00:37:01.260 Osaka Cutaway 7 (Repeated)
-126 - X TV - I Don't Want To Wait - Paula Cole - Yokou Seishirou
-127 - Kiddy Grade - Maybelline - TV Commercial - GFBeach
-128 - Golden Boy - "Damn Computer" - Sound clip from Daria - Kitsuner
-129 - Spirited Away - You've Got A Friend In Me - Randy Newman - Zarxrax
-130 - School Rumble - Duel Of The Fates - John Williams - FoxJones
-131 - Magic Users Club - Baby Got Jack - MC Sampler and White Honkey - Alternababe
-132 - FLCL - Dueling Banjos - Eric Weissberg and Steve Mandell - Zarxrax (Special Thanks: AbsoluteDestiny)
-133 - Neon Genesis Evangelion - Institutionalized - Suicidal Tendencies - SSGWNBTD
-134 - Nurse Witch Komugi-chan - Woo Hoo - The 5, 6, 7, 8's - Chaosprojects
-135 - Card Captor Sakura - "Settle Down, Beavis" - Sound clip from Beavis and Butthead - Chaosprojects
-136 - Serial Experiments Lain - I've Been Working On The Railroad - badmartialarts
-137 - Cowboy Bebop - "For Me To Poop On" - Triumph The Insult Comic Dog - Yokou Seishirou
-138 - Naruto - Love Is A Battlefield - Pat Benatar - Castor Troy
-139 - Tenchi Muyo - Big Pimpin' - Jay-Z - Chaosprojects
-140 - Ghost In The Shell: Stand Alone Complex - Raid Commercial and Original Audio - Ashyukun
-141 - Crying Freeman - I'm Really Hot - Missy Elliot - badmartialarts
-142 - Oh My Goddess! - U Can't Touch This - MC Hammer - Kitsuner
-Osaka Cutaway 8 (Wassup!)
+00:37:13.481 126 - X TV - I Don't Want To Wait - Paula Cole - Yokou Seishirou
+00:37:19.612 127 - Kiddy Grade - Maybelline - TV Commercial - GFBeach
+00:37:26.202 128 - Golden Boy - "Damn Computer" - Sound clip from Daria - Kitsuner
+00:37:32.708 129 - Spirited Away - You've Got A Friend In Me - Randy Newman - Zarxrax
+00:37:42.760 130 - School Rumble - Duel Of The Fates - John Williams - FoxJones
+00:38:07.785 131 - Magic Users Club - Baby Got Jack - MC Sampler and White Honkey - Alternababe
+00:38:12.707 132 - FLCL - Dueling Banjos - Eric Weissberg and Steve Mandell - Zarxrax (Special Thanks: AbsoluteDestiny)
+00:38:35.563 133 - Neon Genesis Evangelion - Institutionalized - Suicidal Tendencies - SSGWNBTD
+00:39:19.231 134 - Nurse Witch Komugi-chan - Woo Hoo - The 5, 6, 7, 8's - Chaosprojects
+00:39:30.743 135 - Card Captor Sakura - "Settle Down, Beavis" - Sound clip from Beavis and Butthead - Chaosprojects
+00:39:34.747 136 - Serial Experiments Lain - I've Been Working On The Railroad - badmartialarts
+00:40:00.189 137 - Cowboy Bebop - "For Me To Poop On" - Triumph The Insult Comic Dog - Yokou Seishirou
+00:40:04.652 138 - Naruto - Love Is A Battlefield - Pat Benatar - Castor Troy
+00:40:33.848 139 - Tenchi Muyo - Big Pimpin' - Jay-Z - Chaosprojects
+00:41:01.584 140 - Ghost In The Shell: Stand Alone Complex - Raid Commercial and Original Audio - Ashyukun
+00:41:15.389 141 - Crying Freeman - I'm Really Hot - Missy Elliot - badmartialarts
+00:41:33.866 142 - Oh My Goddess! - U Can't Touch This - MC Hammer - Kitsuner
+00:41:35.451 Osaka Cutaway 8 (Wassup!)
 143 - Yu Yu Hakusho - "Burlap Chafes Me So" - Sound clip from Pinky and the Brain - Kitsuner
 144 - New Fist Of The North Star - You're Beautiful - James Blunt - Tseng808
 145 - Excel Saga - I Will Survive (Remix) - Hermes House Band - Zarxrax
