@@ -1,0 +1,133 @@
+;FFMETADATA1
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=22688
+title=1 - Introduction - Requiem - Dies Irae - Francesco Verdi - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=22689
+END=42958
+title=2 - Berserk - The Andy Griffith Show Opening Theme - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=42959
+END=51717
+title=Evangelion Cutaway 1
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=51718
+END=65481
+title=3 - Twin Spica - Fantasy Spaceship - Creamy - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=65482
+END=71904
+title=4 - Azumanga Daioh - Mad World - Gary Jules - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=71905
+END=77451
+title=5 - Words Worth - Mr. Ed Opening Theme - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=77452
+END=87336
+title=6 - Neon Genesis Evangelion - Chop Suey - Richard Cheese - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=87337
+END=108065
+title=7 - MAPS - Maps - Yeah Yeah Yeahs - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=108066
+END=117783
+title=Evangelion Cutaway 2
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=117784
+END=138429
+title=8 - Perfect Blue - Fuck Her Gently - Tenacious D - Nightowl
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=138430
+END=145602
+title=9 - End of Evangelion - Bitches - Mindless Self Indulgence - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=145603
+END=158323
+title=10 - Evan Get It On - Tootsie Pop Commercial - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=158324
+END=166957
+title=11 - Cowboy Bebop, End of Evangelion - For Those About to Rock - AC/DC - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=166958
+END=175049
+title=Evangelion Cutaway 3 (Crickets)
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=175050
+END=198572
+title=12 - Barefoot Gen - "My Anus is Bleeding" - Sound clip from "Rejected" - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=198573
+END=223722
+title=13 - "Evangelion Opus" AMV by ShounenDizzyCow - Mountain Dew "Bohemian Rhapsody" Commercial - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=223723
+END=232189
+title=14 - Dragonball Z - "I Have a Dream" speech by Martin Luther King, Jr - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=232190
+END=248831
+title=15 - Barefoot Gen - Drop the Bomb - Scotty D - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=248832
+END=260384
+title=Evangelion Cutaway 4 (Adam Sandler - Somebody Kill Me)
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=260385
+END=270227
+title=16 - Cowboy Bebop - Mmmbop - Hanson - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=270228
+END=286994
+title=17 - Ending (Azumanga Daioh) - Sound Clips from "Freakazoid" - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=286995
+END=300341
+title=Evangelion Cutaway 5
