@@ -12,6 +12,9 @@ def process_file(src, dst):
 
     with open(src, 'r') as f:
         for line in f:
+            if line.startswith(';') or line == '\n':
+                continue
+
             x = re.match(r'(\d{1,2}):(\d{1,2}):(\d{1,2}).(\d{3}) (.*)', line)
             if x is None:
                 print(f'Skipping line: {line}', end='')
