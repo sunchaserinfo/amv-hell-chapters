@@ -47,16 +47,30 @@ END={end}
 title={title}
 """
 
+    dir = os.path.dirname(dst)
+    if not os.path.exists(dir):
+        os.makedirs(dir, exist_ok=True)
+
     with open(dst, 'w') as myfile:
         myfile.write(result)
+
+
+def process_dir(src_dir, meta_dir):
+    for file in os.listdir(src_dir):
+        src_file = src_dir + '/' + file
+        meta_file = meta_dir + '/' + file
+
+        if os.path.isdir(src_file):
+            process_dir(src_file, meta_file)
+
+        if not file.endswith('.txt'):
+            continue
+
+        process_file(src_file, meta_file)
 
 
 proj_dir = os.path.dirname(sys.argv[0]) + '/..'
 src_dir = proj_dir + '/src'
 meta_dir = proj_dir + '/ffmeta'
 
-for file in os.listdir(src_dir):
-    if not file.endswith('.txt'):
-        break
-
-    process_file(src_dir + '/' + file, meta_dir + '/' + file)
+process_dir(src_dir, meta_dir)
