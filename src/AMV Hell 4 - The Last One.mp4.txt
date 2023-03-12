@@ -1,39 +1,39 @@
 ; AMV Hell 4 - The Last One.mp4
 
 00:00:00.000 1 - Previous AMV Hells - Sound Clip - Drawn Together - Yoko Seishirou & Zarxrax
-2 - AMV Hell 3, Azumanga Daioh, Boku no Sexual Harassment - Amv Hell 4 Opening Theme - Adam "Penguin" Hoge & Daniel Hoge - Zarxrax
-3 - Code Geass: Lelouch of the Rebellion - Welcome To Dying (Live) - Blind Guardian - Gepetto
-4 - Eiken - Bra Size 45 - Ivor Biggun - Luke Harris
-5 - Azumanga Daioh - Special Olympics - Stephen Lynch - Blacksheep998
-6 - Death Note - I'm Not Okay (I Promise) - My Chemical Romance - SSGWNBTD
-7 - Howl's Moving Castle - Burnin' For You - Blue Oyster Cult - Aleciel
-8 - Hellsing - Sharp Dressed Man - ZZ Top - Corpsegoddess
-9 - Full Metal Alchemist - Sound Clip - Family Guy - DreNaZ
-10 - Akira - I'm Fat - Weird Al Yancovic - Blacksheep998
-11 - The Melancholy of Haruhi Suzumiya - One Of Us - Joan Osborne - J-san
-12 - Afro-Ken - Godzilla - Blue Oyster Cult - FraChan
-13 - A Little Snow Fairy Sugar - In The End - Linkin Park - Maru-sha
-14 - Dragon Ball Z - Dragostea Din Tei - O-Zone - Captain1finger
-15 - Pani Poni Dash - The Picard Song - DarkMateria - Haunter103
-16 - Claymore - The Purple People Eater - Sheb Wooley - SSGWNBTD
-17 - Bleach - Baby - Stephen Lynch - Qyot27
-18 - Cowboy Bebop - Hide And Seek - Imogen Heap - Aesling
-19 - Ninja Scroll (TV) - I Whupped Batman's Ass - Wesley Willis - Blaku92
-20 - Magical Shopping Arcade Abenobashi - Sugar - System of a Down - LC_Lapen
-21 - Azumanga Daioh - (Don't Fear) The Reaper - Blue Oyster Cult (Saturday Night live Cowbell sketch) - Doki doki
-22 - Excel Saga - Sound Clip - Star Wars Episode 3 - Dorun
-23 - Hello Kitty - Kitty Cat Dance - Steve Ibsen - Fall_Child42
-24 - Dragon Ball Z the Movie: The World's Strongest - Brian Boitano - South Park - TheRealInferno
-25 - Neon Genesis Evangelion - Crawling - Linkin Park - No Shirt Belt Squad
-26 - Death Note - Unwritten - Natasha Bedingfield - SSGWNBTD
-27 - Galaxy Angel - Sound Clips - MXC - Haunter103
-28 - Nadia: The Secret of Blue Water - Lost (End Credits) - Michael Giacchino - Neodym
-29 - One Piece - Fantastic 4 Theme - Giorgio Moroder - Spookzter
-30 - Death Note - Iori Laugh - King Of Fighters 97 - SSGWNBTD
-31 - Grenadier - You Spin Me Right Round - Dead or Alive - Luke Harris
-32 - Dragon Ball, Azumanga Daioh, School Rumble 2, Midori no Hibi, Hare+Guu - Two Ton Paperweight - Psychostick - Gryzlee
-33 - Sumomomo Momomo - Hooked On A Feeling - David Hasselhoff - Phatpug
-34 - Death Note - Candyman - Christina Aguilera - Corpsegoddess
+00:00:59.100 2 - AMV Hell 3, Azumanga Daioh, Boku no Sexual Harassment - Amv Hell 4 Opening Theme - Adam "Penguin" Hoge & Daniel Hoge - Zarxrax
+00:02:21.432 3 - Code Geass: Lelouch of the Rebellion - Welcome To Dying (Live) - Blind Guardian - Gepetto
+00:02:38.867 4 - Eiken - Bra Size 45 - Ivor Biggun - Luke Harris
+00:02:50.044 5 - Azumanga Daioh - Special Olympics - Stephen Lynch - Blacksheep998
+00:03:06.644 6 - Death Note - I'm Not Okay (I Promise) - My Chemical Romance - SSGWNBTD
+00:03:28.124 7 - Howl's Moving Castle - Burnin' For You - Blue Oyster Cult - Aleciel
+00:03:44.098 8 - Hellsing - Sharp Dressed Man - ZZ Top - Corpsegoddess
+00:04:16.756 9 - Full Metal Alchemist - Sound Clip - Family Guy - DreNaZ
+00:04:29.102 10 - Akira - I'm Fat - Weird Al Yancovic - Blacksheep998
+00:04:48.454 11 - The Melancholy of Haruhi Suzumiya - One Of Us - Joan Osborne - J-san
+00:04:52.709 12 - Afro-Ken - Godzilla - Blue Oyster Cult - FraChan
+00:05:10.768 13 - A Little Snow Fairy Sugar - In The End - Linkin Park - Maru-sha
+00:05:27.994 14 - Dragon Ball Z - Dragostea Din Tei - O-Zone - Captain1finger
+00:05:37.253 15 - Pani Poni Dash - The Picard Song - DarkMateria - Haunter103
+00:05:52.769 16 - Claymore - The Purple People Eater - Sheb Wooley - SSGWNBTD
+00:06:05.573 17 - Bleach - Baby - Stephen Lynch - Qyot27
+00:06:09.369 18 - Cowboy Bebop - Hide And Seek - Imogen Heap - Aesling
+00:06:22.507 19 - Ninja Scroll (TV) - I Whupped Batman's Ass - Wesley Willis - Blaku92
+00:06:45.113 20 - Magical Shopping Arcade Abenobashi - Sugar - System of a Down - LC_Lapen
+00:06:53.037 21 - Azumanga Daioh - (Don't Fear) The Reaper - Blue Oyster Cult (Saturday Night live Cowbell sketch) - Doki doki
+00:07:06.801 22 - Excel Saga - Sound Clip - Star Wars Episode 3 - Dorun
+00:07:11.931 23 - Hello Kitty - Kitty Cat Dance - Steve Ibsen - Fall_Child42
+00:07:25.903 24 - Dragon Ball Z the Movie: The World's Strongest - Brian Boitano - South Park - TheRealInferno
+00:07:39.792 25 - Neon Genesis Evangelion - Crawling - Linkin Park - No Shirt Belt Squad
+00:07:44.380 26 - Death Note - Unwritten - Natasha Bedingfield - SSGWNBTD
+00:08:14.744 27 - Galaxy Angel - Sound Clips - MXC - Haunter103
+00:08:46.817 28 - Nadia: The Secret of Blue Water - Lost (End Credits) - Michael Giacchino - Neodym
+00:09:13.052 29 - One Piece - Fantastic 4 Theme - Giorgio Moroder - Spookzter
+00:09:33.990 30 - Death Note - Iori Laugh - King Of Fighters 97 - SSGWNBTD
+00:09:40.580 31 - Grenadier - You Spin Me Right Round - Dead or Alive - Luke Harris
+00:09:56.887 32 - Dragon Ball, Azumanga Daioh, School Rumble 2, Midori no Hibi, Hare+Guu - Two Ton Paperweight - Psychostick - Gryzlee
+00:10:23.080 33 - Sumomomo Momomo - Hooked On A Feeling - David Hasselhoff - Phatpug
+00:10:51.067 34 - Death Note - Candyman - Christina Aguilera - Corpsegoddess
 35 - Azumanga Daioh - Circle Of Life - The Lion King - Gilbertaw
 36 - Guilty Gear X promotion video - I'm Mr. Bad Guy - Freddy Mercury - The Left Brothers
 37 - Welcome To The NHK - Because I Got High - Afroman - Haunter103
