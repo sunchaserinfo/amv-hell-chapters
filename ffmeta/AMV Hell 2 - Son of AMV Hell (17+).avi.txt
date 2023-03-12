@@ -129,5 +129,5 @@ title=17 - Ending (Azumanga Daioh) - Sound Clips from "Freakazoid" - Zarxrax
 [CHAPTER]
 TIMEBASE=1/1000
 START=286995
-END=300341
+END=300674
 title=Evangelion Cutaway 5
