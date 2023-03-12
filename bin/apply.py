@@ -8,7 +8,7 @@ src_dir = sys.argv[1]
 dst_dir = sys.argv[2]
 
 proj_dir = os.path.dirname(sys.argv[0]) + '/..'
-meta_dir = proj_dir + '/metadata'
+meta_dir = proj_dir + '/ffmeta'
 
 for file in os.listdir(meta_dir):
     if not file.endswith('.txt'):

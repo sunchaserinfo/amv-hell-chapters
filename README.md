@@ -9,6 +9,6 @@
 
 ## Docs
 
-* [Human readable time codes](metadata)
+* [Human readable time codes](src)
 * [How to update time codes](docs/updating.md)
 * [How to apply chapters to files](docs/applying.md)

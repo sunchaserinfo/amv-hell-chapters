@@ -50,7 +50,7 @@ title={title}
 
 proj_dir = os.path.dirname(sys.argv[0]) + '/..'
 src_dir = proj_dir + '/src'
-meta_dir = proj_dir + '/metadata'
+meta_dir = proj_dir + '/ffmeta'
 
 for file in os.listdir(src_dir):
     if not file.endswith('.txt'):
