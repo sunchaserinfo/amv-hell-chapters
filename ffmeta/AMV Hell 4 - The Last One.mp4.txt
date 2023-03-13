@@ -201,5 +201,137 @@ title=33 - Sumomomo Momomo - Hooked On A Feeling - David Hasselhoff - Phatpug
 [CHAPTER]
 TIMEBASE=1/1000
 START=651067
-END=5079782
+END=683223
 title=34 - Death Note - Candyman - Christina Aguilera - Corpsegoddess
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=683224
+END=705704
+title=35 - Azumanga Daioh - Circle Of Life - The Lion King - Gilbertaw
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=705705
+END=714504
+title=36 - Guilty Gear X promotion video - I'm Mr. Bad Guy - Freddy Mercury - The Left Brothers
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=714505
+END=738361
+title=37 - Welcome To The NHK - Because I Got High - Afroman - Haunter103
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=738362
+END=747704
+title=38 - Pokemon - Getting Jiggy Wit It - Will Smith - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=747705
+END=757672
+title=39 - FFXI Online - Sound Clip - Army of Darkness - Kiarrens & Jonel & Quill
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=757673
+END=777817
+title=40 - Cromartie High School - Youth Of The Nation - P.O.D. - LC_Lapen
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=777818
+END=801299
+title=41 - The Melancholy of Haruhi Suzumiya - It's The End Of The World As We Know It - REM - Kosh_003
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=801300
+END=812602
+title=42 - One Piece - Sound Clip - Epic Movie - Quazza97
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=812603
+END=841881
+title=43 - Goldenboy - White And Nerdy - Weird Al Yankovic - Phatpug
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=841882
+END=844467
+title=44 - Inuyasha - I Wanna Rock - Twisted Sister - Plan B
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=844468
+END=858189
+title=45 - Yotsuba&! (manga) - Tony's Theme, Ezekiel 25:17 - Giorgio Moroder, Pulp Fiction Soundtrack - Janzki
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=858190
+END=872704
+title=46 - Ping Pong Club - Ping Pong - Dolly Parton - Doki doki
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=872705
+END=876708
+title=47 - Hare+Guu - Maneater - Hall and Oates - Pudgy Poultry Productions
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=876709
+END=901316
+title=48 - Pokemon - Mambo No. 5 - Lou Bega - Roshinku
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=901317
+END=916581
+title=49 - The Melancholy of Haruhi Suzumiya - The Girls Of Rock And Roll - The Chipmunks and The Chipettes - Skye-chan
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=916582
+END=925089
+title=50 - Ragnarok The Animation - Sound Clip - Vampire Hunter D Bloodlust, Shaun of the Dead - Sneakyfridge
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=925090
+END=936768
+title=51 - Soul Link - Stuck In A Moment - U2 - DreNaZ
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=936769
+END=954077
+title=52 - Fruits Basket - Hound Dog - Elvis Presely - RedDragonZ37
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=954078
+END=967715
+title=53 - One Piece - Liar - Henry Rollins - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=967716
+END=975390
+title=54 - Inuyasha - Sound Clip - Jojo's Bizarre Adventure - Plan B
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=975391
+END=1001040
+title=55 - Death Note - Ready To Die - Andrew W.K. - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1001041
+END=5079782
+title=56 - Kyo Kara Maoh! - Dirty Deeds Done With Sheep - Bob Rivers - Corpsegoddess
