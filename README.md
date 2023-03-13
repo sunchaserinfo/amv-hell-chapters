@@ -10,6 +10,7 @@
 * `AMV Hell 3 - The Motion Picture.avi`
 * `AMV Minis Season 1`
   * `AMV Minis 01.mp4`
+  * `AMV Minis 02.mp4`
 
 ## Docs
 
