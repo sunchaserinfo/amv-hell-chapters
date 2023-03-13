@@ -1,0 +1,20 @@
+; AMV Minis 02.mp4
+
+00:00:00.000 Opening
+00:00:14.639 1 - Doomimus - Azumanga Daioh - Monty Python - Argument
+00:00:44.544 2 - greensucksbluerules - Lily C.A.T. - Cake - Carbon Monoxide
+00:01:00.351 3 - Rebbie - Neon Genesis Evangelion - Futurama sound clip
+00:01:15.742 4 - Absolute_Apocalypse - Code Geass - Dead Kennedys - Kill the Poor
+00:01:30.215 5 - Doomimus - Azumanga Daioh - Monty Python - Argument
+00:01:51.069 6 - DXM - Hell girl - AC/DC - Dirty deeds (done dirt cheap)
+00:02:08.795 7 - scarmullet - Neon Genesis Evangelion - The Empire Strikes Back sound clip
+00:02:42.662 8 - Doomimus - Azumanga Daioh - Cannibal Corpse - Make Them Suffer
+00:02:56.259 9 - Oghma - The Melancholy of Haruhi Suzumiya - George Carlin
+00:03:33.087 10 - Oghma - Higurashi no Naku Koro ni - Fine Young Cannibals - She Drives Me Crazy
+00:03:51.272 11 - scarmullet - Azumanga Daioh - Me, Myself, and Irene sound clip
+00:04:01.908 12 - Hosaka Enterprises - Space Runaway Ideon, The Ideon: Be Invoked - Spongebob Squarepants sound clip
+00:04:10.708 13 - Hockey-kun - Lucky Star - Dschinghis Khan - Moskau
+00:04:31.771 14 - scarmullet - Elfen Lied - Batman Beyond sound clip
+00:04:43.032 15 - Raster88 - Pokemon - The Lonely Island - I'm on a Boat
+00:05:01.676 Credits
+00:05:56.022 END

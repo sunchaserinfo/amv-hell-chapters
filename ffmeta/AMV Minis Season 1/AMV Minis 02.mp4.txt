@@ -1,0 +1,103 @@
+;FFMETADATA1
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=14638
+title=Opening
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14639
+END=44543
+title=1 - Doomimus - Azumanga Daioh - Monty Python - Argument
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=44544
+END=60350
+title=2 - greensucksbluerules - Lily C.A.T. - Cake - Carbon Monoxide
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=60351
+END=75741
+title=3 - Rebbie - Neon Genesis Evangelion - Futurama sound clip
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=75742
+END=90214
+title=4 - Absolute_Apocalypse - Code Geass - Dead Kennedys - Kill the Poor
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=90215
+END=111068
+title=5 - Doomimus - Azumanga Daioh - Monty Python - Argument
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=111069
+END=128794
+title=6 - DXM - Hell girl - AC/DC - Dirty deeds (done dirt cheap)
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=128795
+END=162661
+title=7 - scarmullet - Neon Genesis Evangelion - The Empire Strikes Back sound clip
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=162662
+END=176258
+title=8 - Doomimus - Azumanga Daioh - Cannibal Corpse - Make Them Suffer
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=176259
+END=213086
+title=9 - Oghma - The Melancholy of Haruhi Suzumiya - George Carlin
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=213087
+END=231271
+title=10 - Oghma - Higurashi no Naku Koro ni - Fine Young Cannibals - She Drives Me Crazy
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=231272
+END=241907
+title=11 - scarmullet - Azumanga Daioh - Me, Myself, and Irene sound clip
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=241908
+END=250707
+title=12 - Hosaka Enterprises - Space Runaway Ideon, The Ideon: Be Invoked - Spongebob Squarepants sound clip
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=250708
+END=271770
+title=13 - Hockey-kun - Lucky Star - Dschinghis Khan - Moskau
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=271771
+END=283031
+title=14 - scarmullet - Elfen Lied - Batman Beyond sound clip
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=283032
+END=301675
+title=15 - Raster88 - Pokemon - The Lonely Island - I'm on a Boat
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=301676
+END=356021
+title=Credits
