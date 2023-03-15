@@ -56,56 +56,56 @@
 00:16:07.716 54 - Inuyasha - Sound Clip - Jojo's Bizarre Adventure - Plan B
 00:16:15.391 55 - Death Note - Ready To Die - Andrew W.K. - SSGWNBTD
 00:16:41.041 56 - Kyo Kara Maoh! - Dirty Deeds Done With Sheep - Bob Rivers - Corpsegoddess
-57 - Wolf's Rain - They're Coming To Take Me Away Ha-Haaa! - Napoleon XIV - Phatpug
-58 - Azumanga Daioh - Centerfold - J. Geils Band - Purplepolecat
-59 - Naruto - Shiny Teeth And Me - Fairly Odd Parents - Spookzter
-60 - Hellsing - Shoot Me Again - Metallica - AmPsy
-61 - School Rumble 2 - Sound Clips - Counterstrike Source - Behemoth666
-62 - Love Hina Christmas Special - Wizards In Winter - Transiberian Orchestra - Cyanna
-63 - Death Note - My Name Is - Eminem - Sinistro
-64 - The Gokusen - Flash's Theme - Queen - Inkwolf
-65 - Crayon Shin-Chan - I Need More Allowance - The Beets - Listentohowardstern
-66 - Dragon Ball Z - Sand In Your Eyes - Mustard - Phatpug
-67 - Berserk - Lotion - Greens Keepers - SSGWNBTD
-68 - Najica - Fart Contest - Family Guy - Parodic Productions
-69 - Kodomo no Omocha - Sunglasses at Night - Corey Hart - Aleciel
-70 - Lucky Star - Lucky Star - Madonna - SSGWNBTD
-71 - Dragon Ball Z - Do The Mario - Haim Saban & Shuki Levi - Gokenshadow
-72 - Spirited Away - Great Mighty Poo - Conker's Bad Furday Soundtrack - Yoko Seishirou
-73 - Death Note - The Ballad Of Timothy McSweeny - They Might Be Giants - Jesmaster
-74 - Naruto - Padam - Kwan - Kotti
-75 - One Piece - Dancing Queen - ABBA - LC_Lapen
-76 - Those Who Hunt Elves - Yoda - Weird Al Yankovic - Luke Harris
-77 - Pokemon, Excel Saga - Pokemon Blue Title Theme, Super Smash Bros. Melee Sound Effects - Junichi Masuda, Super Smash Bros. Melee - Sinistro
-78 - Eiken - Maniac - Michael Sembello - Zarxrax
-79 - Fullmetal Alchemist - Can't Stop The Rock - Apollo 440 - Miracle Gamer
-80 - Berserk (manga) - This Is Sparta Audio - 300 - SSGWNBTD
-81 - Lucky Star - Come To Daddy - Aphex Twin - ZephyrStar
-82 - Bokusatsu Tenshi Dokuro-chan - Where's Your Head At - Basement Jaxx - Sakuraslight
-83 - Lucky Star - E3 Sound Clip - Kazuo Hirai - Zarxrax
-84 - Rumiko Takahashi Anthology - A Whole New World - Disney's Aladdin - MDA
-85 - FLCL - Aoao (Royal Mix) - DJ Sharpnel - Phatpug
-86 - Fruits Basket - Bulls On Parade - Rage Against the Machine - ForeverZeroo
-87 - Battle Athletes Victory - Living In A Box - Living in a Box - Zarxrax
-88 - Full Metal Alchemist - Iron Man - Black Sabbath - Groomgurl
-89 - Spirited Away - How Do You Spank A Giant Baby - Ze Frank - Strawberry Key
-90 - Death Note - Pinky and the Brain Theme - Pinky and the Brain - Kosh_003
-91 - Iga no Kabamaru - Poetry In Motion - Johnny Tillotson - Sinistro
-92 - Azumanga Daioh - She Drives Like Crazy - Weird Al Yankovic - Corpsegoddess
-93 - Hare+Guu Deluxe - Yatta! - Happa-tai - Spookzter
-94 - Excel Saga - Big Ass Rock - The Full Monty - HypnoCircle
-95 - Fullmetal Alchemist the Movie: Conqueror of Shamballa - The Future Soon - Jonathan Coulton - Cytherea Rose
-96 - Amazing Nuts! - I Like Your Booty (But I'm Not Gay) - Dana Swanson - SSGWNBTD
-97 - Elfen Lied - T.N.T. - AC/DC - No Shirt Belt Squad
-98 - Naruto - Girlfriend - Avril Lavine - Kyuketshki
-99 - Interstella 5555: The 5tory of the 5ecret 5tar 5ystem - Blue (Da Ba Dee) - Eiffel 65 - Phatpug
-100 - Bleach - Starman, Lose A Life - Super Mario Bros. - Qyll
-101 - Revolutionary Girl Utena - Bitchin' Camaro - Dead Milkmen - Purplepolecat
-102 - The Melancholy of Haruhi Suzumiya - Candid Camera - Bob Crane with Iris Adrian - RHOPKINS13
-103 - Cowboy Bebop - Scotty Doesn't Know - Lustra - KentaroPJJ
-104 - Kanon - Jammin - Bob Marley - Spookzter
-105 - Puni Puni Poemy - Dont Worry, Be Happy - Bobby McFerrin - Zarxrax
-106 - Final Fantasy X & X-2 - And I Am Telling You I'm Not Going - Jennifer Hudson - Listentohowardstern
+00:17:12.239 57 - Wolf's Rain - They're Coming To Take Me Away Ha-Haaa! - Napoleon XIV - Phatpug
+00:17:28.714 58 - Azumanga Daioh - Centerfold - J. Geils Band - Purplepolecat
+00:17:54.281 59 - Naruto - Shiny Teeth And Me - Fairly Odd Parents - Spookzter
+00:18:14.676 60 - Hellsing - Shoot Me Again - Metallica - AmPsy
+00:18:32.236 61 - School Rumble 2 - Sound Clips - Counterstrike Source - Behemoth666
+00:19:02.099 62 - Love Hina Christmas Special - Wizards In Winter - Transiberian Orchestra - Cyanna
+00:19:35.132 63 - Death Note - My Name Is - Eminem - Sinistro
+00:19:41.054 64 - The Gokusen - Flash's Theme - Queen - Inkwolf
+00:19:53.650 65 - Crayon Shin-Chan - I Need More Allowance - The Beets - Listentohowardstern
+00:20:23.680 66 - Dragon Ball Z - Sand In Your Eyes - Mustard - Phatpug
+00:20:28.477 67 - Berserk - Lotion - Greens Keepers - SSGWNBTD
+00:20:55.837 68 - Najica - Fart Contest - Family Guy - Parodic Productions
+00:21:21.571 69 - Kodomo no Omocha - Sunglasses at Night - Corey Hart - Aleciel
+00:21:40.173 70 - Lucky Star - Lucky Star - Madonna - SSGWNBTD
+00:21:57.899 71 - Dragon Ball Z - Do The Mario - Haim Saban & Shuki Levi - Gokenshadow
+00:22:18.795 72 - Spirited Away - Great Mighty Poo - Conker's Bad Furday Soundtrack - Yoko Seishirou
+00:22:32.768 73 - Death Note - The Ballad Of Timothy McSweeny - They Might Be Giants - Jesmaster
+00:22:47.324 74 - Naruto - Padam - Kwan - Kotti
+00:23:01.630 75 - One Piece - Dancing Queen - ABBA - LC_Lapen
+00:23:19.231 76 - Those Who Hunt Elves - Yoda - Weird Al Yankovic - Luke Harris
+00:23:28.532 77 - Pokemon, Excel Saga - Pokemon Blue Title Theme, Super Smash Bros. Melee Sound Effects - Junichi Masuda, Super Smash Bros. Melee - Sinistro
+00:23:48.093 78 - Eiken - Maniac - Michael Sembello - Zarxrax
+00:23:53.515 79 - Fullmetal Alchemist - Can't Stop The Rock - Apollo 440 - Miracle Gamer
+00:24:16.329 80 - Berserk (manga) - This Is Sparta Audio - 300 - SSGWNBTD
+00:24:19.124 81 - Lucky Star - Come To Daddy - Aphex Twin - ZephyrStar
+00:24:44.524 82 - Bokusatsu Tenshi Dokuro-chan - Where's Your Head At - Basement Jaxx - Sakuraslight
+00:24:52.324 83 - Lucky Star - E3 Sound Clip - Kazuo Hirai - Zarxrax
+00:25:12.469 84 - Rumiko Takahashi Anthology - A Whole New World - Disney's Aladdin - MDA
+00:25:22.812 85 - FLCL - Aoao (Royal Mix) - DJ Sharpnel - Phatpug
+00:25:38.912 86 - Fruits Basket - Bulls On Parade - Rage Against the Machine - ForeverZeroo
+00:25:44.251 87 - Battle Athletes Victory - Living In A Box - Living in a Box - Zarxrax
+00:25:58.974 88 - Full Metal Alchemist - Iron Man - Black Sabbath - Groomgurl
+00:26:15.532 89 - Spirited Away - How Do You Spank A Giant Baby - Ze Frank - Strawberry Key
+00:26:30.672 90 - Death Note - Pinky and the Brain Theme - Pinky and the Brain - Kosh_003
+00:26:48.815 91 - Iga no Kabamaru - Poetry In Motion - Johnny Tillotson - Sinistro
+00:27:09.252 92 - Azumanga Daioh - She Drives Like Crazy - Weird Al Yankovic - Corpsegoddess
+00:27:27.479 93 - Hare+Guu Deluxe - Yatta! - Happa-tai - Spookzter
+00:27:57.592 94 - Excel Saga - Big Ass Rock - The Full Monty - HypnoCircle
+00:28:13.108 95 - Fullmetal Alchemist the Movie: Conqueror of Shamballa - The Future Soon - Jonathan Coulton - Cytherea Rose
+00:28:32.252 96 - Amazing Nuts! - I Like Your Booty (But I'm Not Gay) - Dana Swanson - SSGWNBTD
+00:28:44.180 97 - Elfen Lied - T.N.T. - AC/DC - No Shirt Belt Squad
+00:29:04.659 98 - Naruto - Girlfriend - Avril Lavine - Kyuketshki
+00:29:29.350 99 - Interstella 5555: The 5tory of the 5ecret 5tar 5ystem - Blue (Da Ba Dee) - Eiffel 65 - Phatpug
+00:29:59.255 100 - Bleach - Starman, Lose A Life - Super Mario Bros. - Qyll
+00:30:09.057 101 - Revolutionary Girl Utena - Bitchin' Camaro - Dead Milkmen - Purplepolecat
+00:30:26.199 102 - The Melancholy of Haruhi Suzumiya - Candid Camera - Bob Crane with Iris Adrian - RHOPKINS13
+00:30:38.336 103 - Cowboy Bebop - Scotty Doesn't Know - Lustra - KentaroPJJ
+00:30:50.473 104 - Kanon - Jammin - Bob Marley - Spookzter
+00:31:02.902 105 - Puni Puni Poemy - Dont Worry, Be Happy - Bobby McFerrin - Zarxrax
+00:31:14.455 106 - Final Fantasy X & X-2 - And I Am Telling You I'm Not Going - Jennifer Hudson - Listentohowardstern
 107 - Naruto - A Complicated Song - Weird Al Yankovic - Hungry Sano
 108 - Dragon Ball Z - Trapped At The Drive-Thru - Weird Al Yancovic - Luke Harris
 109 - Serial Experiments Lain - Technologic - Daft Punk - Sneakyfridge
