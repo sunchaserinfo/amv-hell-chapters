@@ -106,65 +106,65 @@
 00:30:50.473 104 - Kanon - Jammin - Bob Marley - Spookzter
 00:31:02.902 105 - Puni Puni Poemy - Dont Worry, Be Happy - Bobby McFerrin - Zarxrax
 00:31:14.455 106 - Final Fantasy X & X-2 - And I Am Telling You I'm Not Going - Jennifer Hudson - Listentohowardstern
-107 - Naruto - A Complicated Song - Weird Al Yankovic - Hungry Sano
-108 - Dragon Ball Z - Trapped At The Drive-Thru - Weird Al Yancovic - Luke Harris
-109 - Serial Experiments Lain - Technologic - Daft Punk - Sneakyfridge
-110 - Scrapped Princess - Double Team - Tenacious D - Yoko Seishirou
-111 - The Melancholy of Haruhi Suzumiya - Tribute - Tenacious D - Thaurlom
-112 - Pretty Soldier Sailor Moon SuperS - Ass Up! (Ic3M4N Remix) - Baracuda - starcat09
-113 - Ebichu - Nobody Likes Me - Classic Children's Song - Doki doki
-114 - Revolutionary Girl Utena - Supermodel (You Better Work) - RuPaul - Corpsegoddess
-115 - Dragon Ball Z - Unleash The Dragon - Sisqo - Spookzter
-116 - Azumanga Daioh - Bodies - Drowning Pool - Maru-sha
-117 - The Melancholy of Haruhi Suzumiya - The Time Warp - The Rocky Horror Picture Show - Donutgrrrl
-118 - Dragon Ball Z - The One - The Rock - Spookzter
-119 - Outlaw Star - Feel Like Makin' Love - South Park - Blacksheep998
-120 - Ichigo Mashimaro - Ridin - Chamillionaire - Sbuk
-121 - Konjiki no Gash Bell - The Boxman - Smosh - Spookzter
-122 - Hare+Guu - Santa Claus - Bob Rivers - A Well Known Stranger
-123 - FLCL - Tin Can Hit Man - Robotronica - Awol360
-124 - Seto no Hanayome - Main Title (Terminator 2 Theme) - Terminator 2 - Judgment Day - Astral
-125 - Akira - Basket Case - Green Day - Zarxrax
-126 - Resident Evil 4 - Knife Fight - Lemon Demon - Phatpug
-127 - One Piece - In The Navy - Village People - Spookzter
-128 - Chobits - It's All About The Pentiums - Weird Al Yancovic - Kosh_003
-129 - Dragon Ball Z - Acceptable in the 80s - Calvin Harris - TrialandError
-130 - Death Note - Vi sitter i Ventrilo och spelar DotA - Basshunter - SSGWNBTD
-131 - Neon Genesis Evangelion - All The Small Things - Blink 182 - Zarxrax
-132 - Death Note - Maybe I'm A Lion - The Black Mages - SSGWNBTD
-133 - Excel Saga - Danger Zone - Kenny Loggins - TekDude
-134 - Azumanga Daioh - Every Time We Touch - Cascada - Surly Squid
-135 - Hellsing - Move Your Dead Bones - Dr. Re-Animator - Phatpug
-136 - Neon Genesis Evangelion - Equivalencies, River Side - King Missile, Joe Hisaishi - SSGWNBTD
-137 - One Piece - Hip To Be Square - Huey Lewis and The News - Haunter103
-138 - Death Note - Fingertips - They Might Be Giants - Donutgrrrl
-139 - Dragon Ball Z - Master Exploder - Tenacious D - Quazza97
-140 - Hello Kitty's Animation Theatre - The March Of The Sinister Ducks - The Sinister Ducks - Fall_Child42
-141 - Bleach - Ghostbusters - Ray Parker Jr. - Spookzter
-142 - Pokemon - Sound Clip - Geico Commercial - Grant10k
-143 - Monster - The Beetis - Nathan Eldridge - Blaku92
-144 - Neon Genesis Evangelion - Twister - Paul and Storm - ImmortalArena
-145 - Excel Saga - The Tussin - MC Chris - Requiett
-146 - The Melancholy of Haruhi Suzumiya - Normal - Bumblefoot - SSGWNBTD
-147 - Azumanga Daioh, Peacemaker Kurogane - Sound Clip - Beggin' Strips Commercial - Corpsegoddess
-148 - One Piece - Corona - The Minutemen - Spookzter
-149 - Perfect Blue - Teenage Hustling - Tori Amos - Black Rose Studios
-150 - Excel Saga and Pet Shop of Horrors - Kill The Wabbit - Ozzy Fudd (Mark McCollum) - Inkwolf
-151 - Higurashi No Naku Koro Ni - Maxwell's Silver Hammer - The Beatles - Actawesome
-152 - The Melancholy of Haruhi Suzumiya - Black Winter Night - DragonForce - SSGWNBTD
-153 - One Piece - Sound Clip - Popeye the Sailor - LC_Lapen
-154 - Nana - Fell In Love With A Girl - The White Stripes - Purplepolecat
-155 - Neon Genesis Evangelion - Angel - Shaggy - SSGWNBTD
-156 - Excel Saga - Hard Rock Hallelujah - Lordi - Dorun
-157 - Fullmetal Alchemist - Lullaby - Steven Lynch - Kiarrens
-158 - Serial Experiments Lain, Golgo 13: The Proffessional - I Believe I Can Fly - R. Kelly - Darthgamer
-159 - Detective Conan - A Complicated Song - Weird Al Yankovic - Yoko Seishirou
-160 - Sensitive Pornograph - Passionate Kisses - Mary Chapin Carpenter - Zarxrax
-161 - Death Note - HWC - Liz Phair - SSGWNBTD
-162 - Evangelion - Rodney Carrington - Burning Sensation - Parodic Productions
-163 - Naruto - The Cuppycake Song - Buddy Castle - Rinny
-164 - Azumanga Daioh - Bump n' Grind - R. Kelly - Listentohowardstern
-165 - End of Evangelion - Sound Clip - Austin Powers: International Man of Mystery - Yoko Seishirou
+00:31:43.276 107 - Naruto - A Complicated Song - Weird Al Yankovic - Hungry Sano
+00:32:09.719 108 - Dragon Ball Z - Trapped At The Drive-Thru - Weird Al Yancovic - Luke Harris
+00:32:27.445 109 - Serial Experiments Lain - Technologic - Daft Punk - Sneakyfridge
+00:32:59.936 110 - Scrapped Princess - Double Team - Tenacious D - Yoko Seishirou
+00:33:01.938 111 - The Melancholy of Haruhi Suzumiya - Tribute - Tenacious D - Thaurlom
+00:33:33.136 112 - Pretty Soldier Sailor Moon SuperS - Ass Up! (Ic3M4N Remix) - Baracuda - starcat09
+00:33:43.104 113 - Ebichu - Nobody Likes Me - Classic Children's Song - Doki doki
+00:33:49.027 114 - Revolutionary Girl Utena - Supermodel (You Better Work) - RuPaul - Corpsegoddess
+00:34:24.270 115 - Dragon Ball Z - Unleash The Dragon - Sisqo - Spookzter
+00:34:34.405 116 - Azumanga Daioh - Bodies - Drowning Pool - Maru-sha
+00:34:49.212 117 - The Melancholy of Haruhi Suzumiya - The Time Warp - The Rocky Horror Picture Show - Donutgrrrl
+00:35:20.952 118 - Dragon Ball Z - The One - The Rock - Spookzter
+00:35:48.771 119 - Outlaw Star - Feel Like Makin' Love - South Park - Blacksheep998
+00:35:58.865 120 - Ichigo Mashimaro - Ridin - Chamillionaire - Sbuk
+00:36:15.256 121 - Konjiki no Gash Bell - The Boxman - Smosh - Spookzter
+00:36:38.946 122 - Hare+Guu - Santa Claus - Bob Rivers - A Well Known Stranger
+00:36:53.294 123 - FLCL - Tin Can Hit Man - Robotronica - Awol360
+00:37:21.989 124 - Seto no Hanayome - Main Title (Terminator 2 Theme) - Terminator 2 - Judgment Day - Astral
+00:37:45.221 125 - Akira - Basket Case - Green Day - Zarxrax
+00:38:06.200 126 - Resident Evil 4 - Knife Fight - Lemon Demon - Phatpug
+00:38:29.098 127 - One Piece - In The Navy - Village People - Spookzter
+00:38:44.613 128 - Chobits - It's All About The Pentiums - Weird Al Yancovic - Kosh_003
+00:38:55.916 129 - Dragon Ball Z - Acceptable in the 80s - Calvin Harris - TrialandError
+00:39:12.141 130 - Death Note - Vi sitter i Ventrilo och spelar DotA - Basshunter - SSGWNBTD
+00:39:39.668 131 - Neon Genesis Evangelion - All The Small Things - Blink 182 - Zarxrax
+00:39:43.839 132 - Death Note - Maybe I'm A Lion - The Black Mages - SSGWNBTD
+00:39:57.353 133 - Excel Saga - Danger Zone - Kenny Loggins - TekDude
+00:40:26.215 134 - Azumanga Daioh - Every Time We Touch - Cascada - Surly Squid
+00:40:46.735 135 - Hellsing - Move Your Dead Bones - Dr. Re-Animator - Phatpug
+00:41:10.885 136 - Neon Genesis Evangelion - Equivalencies, River Side - King Missile, Joe Hisaishi - SSGWNBTD
+00:41:53.928 137 - One Piece - Hip To Be Square - Huey Lewis and The News - Haunter103
+00:42:15.449 138 - Death Note - Fingertips - They Might Be Giants - Donutgrrrl
+00:42:38.180 139 - Dragon Ball Z - Master Exploder - Tenacious D - Quazza97
+00:42:55.281 140 - Hello Kitty's Animation Theatre - The March Of The Sinister Ducks - The Sinister Ducks - Fall_Child42
+00:43:21.890 141 - Bleach - Ghostbusters - Ray Parker Jr. - Spookzter
+00:43:57.426 142 - Pokemon - Sound Clip - Geico Commercial - Grant10k
+00:44:27.581 143 - Monster - The Beetis - Nathan Eldridge - Blaku92
+00:44:47.267 144 - Neon Genesis Evangelion - Twister - Paul and Storm - ImmortalArena
+00:44:59.822 145 - Excel Saga - The Tussin - MC Chris - Requiett
+00:45:26.682 146 - The Melancholy of Haruhi Suzumiya - Normal - Bumblefoot - SSGWNBTD
+00:45:38.777 147 - Azumanga Daioh, Peacemaker Kurogane - Sound Clip - Beggin' Strips Commercial - Corpsegoddess
+00:46:13.896 148 - One Piece - Corona - The Minutemen - Spookzter
+00:46:39.421 149 - Perfect Blue - Teenage Hustling - Tori Amos - Black Rose Studios
+00:46:48.013 150 - Excel Saga and Pet Shop of Horrors - Kill The Wabbit - Ozzy Fudd (Mark McCollum) - Inkwolf
+00:47:11.620 151 - Higurashi No Naku Koro Ni - Maxwell's Silver Hammer - The Beatles - Actawesome
+00:47:34.643 152 - The Melancholy of Haruhi Suzumiya - Black Winter Night - DragonForce - SSGWNBTD
+00:48:04.840 153 - One Piece - Sound Clip - Popeye the Sailor - LC_Lapen
+00:48:14.308 154 - Nana - Fell In Love With A Girl - The White Stripes - Purplepolecat
+00:48:40.375 155 - Neon Genesis Evangelion - Angel - Shaggy - SSGWNBTD
+00:49:03.482 156 - Excel Saga - Hard Rock Hallelujah - Lordi - Dorun
+00:49:29.466 157 - Fullmetal Alchemist - Lullaby - Steven Lynch - Kiarrens
+00:50:03.625 158 - Serial Experiments Lain, Golgo 13: The Proffessional - I Believe I Can Fly - R. Kelly - Darthgamer
+00:50:29.109 159 - Detective Conan - A Complicated Song - Weird Al Yankovic - Yoko Seishirou
+00:50:55.761 160 - Sensitive Pornograph - Passionate Kisses - Mary Chapin Carpenter - Zarxrax
+00:51:09.775 161 - Death Note - HWC - Liz Phair - SSGWNBTD
+00:51:36.384 162 - Evangelion - Rodney Carrington - Burning Sensation - Parodic Productions
+00:51:51.274 163 - Naruto - The Cuppycake Song - Buddy Castle - Rinny
+00:52:12.587 164 - Azumanga Daioh - Bump n' Grind - R. Kelly - Listentohowardstern
+00:52:42.742 165 - End of Evangelion - Sound Clip - Austin Powers: International Man of Mystery - Yoko Seishirou
 166 - Pokemon: Diamond and Pearl - I Kissed A Girl - Jill Sobule - SSGWNBTD
 167 - Full Metal Panic: The Second Raid - Spiderman (Speedo Vrs) - Beatbox feat DJ Speedo - Zarxrax
 168 - Elfen Lied - Ticks - Brad Paisley - TheRealInferno

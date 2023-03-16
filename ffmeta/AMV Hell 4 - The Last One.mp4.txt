@@ -633,5 +633,359 @@ title=105 - Puni Puni Poemy - Dont Worry, Be Happy - Bobby McFerrin - Zarxrax
 [CHAPTER]
 TIMEBASE=1/1000
 START=1874455
-END=5079782
+END=1903275
 title=106 - Final Fantasy X & X-2 - And I Am Telling You I'm Not Going - Jennifer Hudson - Listentohowardstern
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1903276
+END=1929718
+title=107 - Naruto - A Complicated Song - Weird Al Yankovic - Hungry Sano
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1929719
+END=1947444
+title=108 - Dragon Ball Z - Trapped At The Drive-Thru - Weird Al Yancovic - Luke Harris
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1947445
+END=1979935
+title=109 - Serial Experiments Lain - Technologic - Daft Punk - Sneakyfridge
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1979936
+END=1981937
+title=110 - Scrapped Princess - Double Team - Tenacious D - Yoko Seishirou
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1981938
+END=2013135
+title=111 - The Melancholy of Haruhi Suzumiya - Tribute - Tenacious D - Thaurlom
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2013136
+END=2023103
+title=112 - Pretty Soldier Sailor Moon SuperS - Ass Up! (Ic3M4N Remix) - Baracuda - starcat09
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2023104
+END=2029026
+title=113 - Ebichu - Nobody Likes Me - Classic Children's Song - Doki doki
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2029027
+END=2064269
+title=114 - Revolutionary Girl Utena - Supermodel (You Better Work) - RuPaul - Corpsegoddess
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2064270
+END=2074404
+title=115 - Dragon Ball Z - Unleash The Dragon - Sisqo - Spookzter
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2074405
+END=2089211
+title=116 - Azumanga Daioh - Bodies - Drowning Pool - Maru-sha
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2089212
+END=2120951
+title=117 - The Melancholy of Haruhi Suzumiya - The Time Warp - The Rocky Horror Picture Show - Donutgrrrl
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2120952
+END=2148770
+title=118 - Dragon Ball Z - The One - The Rock - Spookzter
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2148771
+END=2158864
+title=119 - Outlaw Star - Feel Like Makin' Love - South Park - Blacksheep998
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2158865
+END=2175255
+title=120 - Ichigo Mashimaro - Ridin - Chamillionaire - Sbuk
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2175256
+END=2198945
+title=121 - Konjiki no Gash Bell - The Boxman - Smosh - Spookzter
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2198946
+END=2213293
+title=122 - Hare+Guu - Santa Claus - Bob Rivers - A Well Known Stranger
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2213294
+END=2241988
+title=123 - FLCL - Tin Can Hit Man - Robotronica - Awol360
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2241989
+END=2265220
+title=124 - Seto no Hanayome - Main Title (Terminator 2 Theme) - Terminator 2 - Judgment Day - Astral
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2265221
+END=2286199
+title=125 - Akira - Basket Case - Green Day - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2286200
+END=2309097
+title=126 - Resident Evil 4 - Knife Fight - Lemon Demon - Phatpug
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2309098
+END=2324612
+title=127 - One Piece - In The Navy - Village People - Spookzter
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2324613
+END=2335915
+title=128 - Chobits - It's All About The Pentiums - Weird Al Yancovic - Kosh_003
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2335916
+END=2352140
+title=129 - Dragon Ball Z - Acceptable in the 80s - Calvin Harris - TrialandError
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2352141
+END=2379667
+title=130 - Death Note - Vi sitter i Ventrilo och spelar DotA - Basshunter - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2379668
+END=2383838
+title=131 - Neon Genesis Evangelion - All The Small Things - Blink 182 - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2383839
+END=2397352
+title=132 - Death Note - Maybe I'm A Lion - The Black Mages - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2397353
+END=2426214
+title=133 - Excel Saga - Danger Zone - Kenny Loggins - TekDude
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2426215
+END=2446734
+title=134 - Azumanga Daioh - Every Time We Touch - Cascada - Surly Squid
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2446735
+END=2470884
+title=135 - Hellsing - Move Your Dead Bones - Dr. Re-Animator - Phatpug
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2470885
+END=2513927
+title=136 - Neon Genesis Evangelion - Equivalencies, River Side - King Missile, Joe Hisaishi - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2513928
+END=2535448
+title=137 - One Piece - Hip To Be Square - Huey Lewis and The News - Haunter103
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2535449
+END=2558179
+title=138 - Death Note - Fingertips - They Might Be Giants - Donutgrrrl
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2558180
+END=2575280
+title=139 - Dragon Ball Z - Master Exploder - Tenacious D - Quazza97
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2575281
+END=2601889
+title=140 - Hello Kitty's Animation Theatre - The March Of The Sinister Ducks - The Sinister Ducks - Fall_Child42
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2601890
+END=2637425
+title=141 - Bleach - Ghostbusters - Ray Parker Jr. - Spookzter
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2637426
+END=2667580
+title=142 - Pokemon - Sound Clip - Geico Commercial - Grant10k
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2667581
+END=2687266
+title=143 - Monster - The Beetis - Nathan Eldridge - Blaku92
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2687267
+END=2699821
+title=144 - Neon Genesis Evangelion - Twister - Paul and Storm - ImmortalArena
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2699822
+END=2726681
+title=145 - Excel Saga - The Tussin - MC Chris - Requiett
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2726682
+END=2738776
+title=146 - The Melancholy of Haruhi Suzumiya - Normal - Bumblefoot - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2738777
+END=2773895
+title=147 - Azumanga Daioh, Peacemaker Kurogane - Sound Clip - Beggin' Strips Commercial - Corpsegoddess
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2773896
+END=2799420
+title=148 - One Piece - Corona - The Minutemen - Spookzter
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2799421
+END=2808012
+title=149 - Perfect Blue - Teenage Hustling - Tori Amos - Black Rose Studios
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2808013
+END=2831619
+title=150 - Excel Saga and Pet Shop of Horrors - Kill The Wabbit - Ozzy Fudd (Mark McCollum) - Inkwolf
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2831620
+END=2854642
+title=151 - Higurashi No Naku Koro Ni - Maxwell's Silver Hammer - The Beatles - Actawesome
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2854643
+END=2884839
+title=152 - The Melancholy of Haruhi Suzumiya - Black Winter Night - DragonForce - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2884840
+END=2894307
+title=153 - One Piece - Sound Clip - Popeye the Sailor - LC_Lapen
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2894308
+END=2920374
+title=154 - Nana - Fell In Love With A Girl - The White Stripes - Purplepolecat
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2920375
+END=2943481
+title=155 - Neon Genesis Evangelion - Angel - Shaggy - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2943482
+END=2969465
+title=156 - Excel Saga - Hard Rock Hallelujah - Lordi - Dorun
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2969466
+END=3003624
+title=157 - Fullmetal Alchemist - Lullaby - Steven Lynch - Kiarrens
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3003625
+END=3029108
+title=158 - Serial Experiments Lain, Golgo 13: The Proffessional - I Believe I Can Fly - R. Kelly - Darthgamer
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3029109
+END=3055760
+title=159 - Detective Conan - A Complicated Song - Weird Al Yankovic - Yoko Seishirou
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3055761
+END=3069774
+title=160 - Sensitive Pornograph - Passionate Kisses - Mary Chapin Carpenter - Zarxrax
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3069775
+END=3096383
+title=161 - Death Note - HWC - Liz Phair - SSGWNBTD
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3096384
+END=3111273
+title=162 - Evangelion - Rodney Carrington - Burning Sensation - Parodic Productions
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3111274
+END=3132586
+title=163 - Naruto - The Cuppycake Song - Buddy Castle - Rinny
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3132587
+END=3162741
+title=164 - Azumanga Daioh - Bump n' Grind - R. Kelly - Listentohowardstern
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3162742
+END=5079782
+title=165 - End of Evangelion - Sound Clip - Austin Powers: International Man of Mystery - Yoko Seishirou
