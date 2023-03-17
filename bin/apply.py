@@ -16,9 +16,14 @@ def process(src_dir, dst_dir, meta_dir):
         if not file.endswith('.txt'):
             continue
 
+        params = ''
+
         fn_src = file[:-4]
+        if fn_src == 'AMV Hell 3 - The Motion Picture.avi':
+            # fix desync problem in AMV Hell 3
+            params += '-fflags +genpts '
         if fn_src.endswith('.avi'):
-            fn_dst = fn_src[:-4] + '.mp4'
+            fn_dst = fn_src[:-4] + '.mkv'
         else:
             fn_dst = fn_src
         src_file = src_dir + '/' + fn_src
@@ -33,7 +38,7 @@ def process(src_dir, dst_dir, meta_dir):
             print(f'Skipping missing {fn_src}')
             continue
 
-        cmd = f'ffmpeg -i {src_file_q} -i {meta_file_q} -map_metadata 1 -codec copy {dst_file_q}'
+        cmd = f'ffmpeg {params} -i {src_file_q} -i {meta_file_q} -map_metadata 1 -codec copy {dst_file_q}'
 
         print(f'>>> {cmd}')
         os.system(cmd)
