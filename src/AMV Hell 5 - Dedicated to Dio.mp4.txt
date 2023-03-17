@@ -1,20 +1,20 @@
 ; AMV Hell 5 - Dedicated to Dio.mp4
 
 00:00:00.000 1 - K-On!, Berserk, JoJo's Bizarre Adventure - Dio - Tenacious D - SSGWNBTD
-2 - High School of the Dead - La Isla Bonita - Twilight Guardians - SSGWNBTD
-3 - The Cat Returns - Thriller - Micheal Jackson - Kenzichu
-4 - Dragon Ball Z - We're Men in Tights - Robin Hood: Men in Tights - Deemer
-5 - Transformers: The Movie - Nom Nom Nom Nom Nom Nom Nom - Parry Gripp - Malev
-6 - Death Note - One Week - Barenaked Ladies - Curry Mutton Pizza
-7 - Dragon Ball Z - Sound Clip - The Boondocks - The Jenkins
-8 - Guyver the Bioboosted Armor - Opening Theme - Ben 10 - Hammacubed
-9 - Death Note - Friends on the Other Side - Keith David - Draqua
-10 - Pokemon - Love Song - Sara Bareilles - SSGWNBTD
-11 - The Girl Who Leapt Through Time - Dr. Who (season 5 theme) - Murray Gold - Keinushi
-12 - Yu-Gi-Oh - I Just Called To Say I Love You - Stevie Wonder - Hammacubed
-13 - Dragon Ball Z - Sound clip - Biotop - Peachwise Pictures
-14 - Ouran High School Host Club - Manah Manah - The Muppets - LySs
-15 - Golden Boy - When I'm Cleaning Windows - George Formby - Hammacubed
+00:01:39.199 2 - High School of the Dead - La Isla Bonita - Twilight Guardians - SSGWNBTD
+00:02:16.536 3 - The Cat Returns - Thriller - Micheal Jackson - Kenzichu
+00:02:25.345 4 - Dragon Ball Z - We're Men in Tights - Robin Hood: Men in Tights - Deemer
+00:02:55.875 5 - Transformers: The Movie - Nom Nom Nom Nom Nom Nom Nom - Parry Gripp - Malev
+00:03:13.059 6 - Death Note - One Week - Barenaked Ladies - Curry Mutton Pizza
+00:03:43.423 7 - Dragon Ball Z - Sound Clip - The Boondocks - The Jenkins
+00:03:48.728 8 - Guyver the Bioboosted Armor - Opening Theme - Ben 10 - Hammacubed
+00:04:09.783 9 - Death Note - Friends on the Other Side - Keith David - Draqua
+00:04:30.070 10 - Pokemon - Love Song - Sara Bareilles - SSGWNBTD
+00:04:40.780 11 - The Girl Who Leapt Through Time - Dr. Who (season 5 theme) - Murray Gold - Keinushi
+00:05:16.750 12 - Yu-Gi-Oh - I Just Called To Say I Love You - Stevie Wonder - Hammacubed
+00:05:25.158 13 - Dragon Ball Z - Sound clip - Biotop - Peachwise Pictures
+00:05:29.996 14 - Ouran High School Host Club - Manah Manah - The Muppets - LySs
+00:05:54.554 15 - Golden Boy - When I'm Cleaning Windows - George Formby - Hammacubed
 16 - Dragon Ball Z - Commercial Audio - Inglourious Basterds - Chris V.O
 17 - Neon Genesis Evangelion - Broken Down Piece Of Junk - Brian Setzer - Drewaconclusion
 18 - Kasimasi - If I Were A Girl - Dave Days - Replay Studios
