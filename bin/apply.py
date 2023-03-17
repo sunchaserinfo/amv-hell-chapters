@@ -33,7 +33,7 @@ def process(src_dir, dst_dir, meta_dir):
             print(f'Skipping missing {fn_src}')
             continue
 
-        cmd = f'ffmpeg -y -i {src_file_q} -i {meta_file_q} -map_metadata 1 -codec copy {dst_file_q}'
+        cmd = f'ffmpeg -i {src_file_q} -i {meta_file_q} -map_metadata 1 -codec copy {dst_file_q}'
 
         print(f'>>> {cmd}')
         os.system(cmd)
