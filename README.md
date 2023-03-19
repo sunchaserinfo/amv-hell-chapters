@@ -9,7 +9,7 @@
 * `AMV Hell 2 - Son of AMV Hell (17+).avi`
 * `AMV Hell 3 - The Motion Picture.avi`
 * `AMV Hell 4 - The Last One.mp4`
-
+* `AMV Hell 5 - Dedicated to Dio.mp4`
 * `AMV Minis Season 1`
   * `AMV Minis 01.mp4`
   * `AMV Minis 02.mp4`
